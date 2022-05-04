@@ -1,6 +1,9 @@
-h1 {
+#centered {
   text-align: centered;
 }
-p {
-  text-align: centered;
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
