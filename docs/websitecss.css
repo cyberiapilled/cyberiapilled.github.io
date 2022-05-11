@@ -7,3 +7,9 @@
   margin-right: auto;
   width: 50%;
 }
+p {
+  color: black;
+}
+body {
+  background-color: white;
+}
