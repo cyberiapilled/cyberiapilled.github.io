@@ -1,5 +1,5 @@
 .centeredtext {
-  text-align: centered;
+  text-align: center;
 }
 .centeredimage {
   display: block;
@@ -8,7 +8,7 @@
   width: 50%;
 }
 p {
-  color: black;
+  color: purple;
 }
 body {
   background-color: white;
