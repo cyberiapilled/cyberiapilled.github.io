@@ -1,6 +1,12 @@
 .centeredtext {
   text-align: center;
 }
+a.centeredtext {
+  text-align: center;
+}
+h1 {
+  color: purple;
+}
 .centeredimage {
   display: block;
   margin-left: auto;
