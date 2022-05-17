@@ -1,8 +1,9 @@
-.centeredtext {
-  text-align: center;
-}
 h1 {
   color: white;
+  text-align: center;
+}
+h2 {
+  text-align: center;
 }
 .centeredimage {
   display: block;
@@ -12,6 +13,7 @@ h1 {
 }
 p {
   color: white;
+  text-align: center;
 }
 body {
   background-color: gray;
