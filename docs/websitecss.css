@@ -14,3 +14,6 @@ p {
 body {
   background-color: gray;
 }
+.centeredtext {
+  text-align: center;
+}
