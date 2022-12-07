@@ -109,7 +109,7 @@
 ## 1953
 104. [Space Versus Cement](https://libriincogniti.wordpress.com/2020/03/21/on-the-thread-of-time-space-versus-cement/)
 105. [Classical Capitalism, Romantic Socialism]()
-106. [The Bear and its Great Romance]()
+106. [The Bear & its Great Romance]()
 107. [Spring Blossoms of Capital]()
 108. [The Spirit of Horse-Power](https://www.international-communist-party.org/CommLeft/CL17.htm#THE_SPIRIT_OF_HORSE_POWER)
 109. [Malenkov-Stalin: Patch, Not Stage]()
