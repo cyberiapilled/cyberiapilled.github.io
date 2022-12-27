@@ -21,9 +21,9 @@
 1925: [The Trotsky Question](https://www.marxists.org/archive/bordiga/works/1925/trotsky.htm) - PCd’I  
 # Expulsion of the Left Opposition, & the English General Strike, 1926-1927:
 1926: [The Tasks of the Russian Communist Party](https://www.marxists.org/archive/bukharin/works/1926/01/x01.htm) - Bukharin  
-1926: [Lyon Theses](https://www.international-communist-party.org/BasicTexts/English/LyonThes.htm) - PCd’I
+1926: [Lyon Theses](https://www.international-communist-party.org/BasicTexts/English/LyonThes.htm) - PCd’I  
 1926: [Meeting of the Italian Delegation With Stalin](https://libriincogniti.wordpress.com/2020/04/04/6th-ecci-meeting-of-the-italian-delegation-with-stalin-22-february-1926/) - PCd’I  
-1926: [Position of the Left at the 6th Enlarged Executive](https://www.international-communist-party.org/BasicTexts/English/26EnlCCI.htm) - PCd’I
+1926: [Position of the Left at the 6th Enlarged Executive](https://www.international-communist-party.org/BasicTexts/English/26EnlCCI.htm) - PCd’I  
 1926: [Correspondence Between Bordiga & Trotsky](https://libcom.org/article/correspondence-between-bordiga-and-trotsky)  
 1926: [Letter to Korsch](https://www.international-communist-party.org/CommLeft/CL09.htm#LEFT_ARCHIVES) - Bordiga  
 1927: [Platform of the Joint Opposition](https://www.marxists.org/archive/trotsky/1927/opposition/index.htm)- Trotsky  
