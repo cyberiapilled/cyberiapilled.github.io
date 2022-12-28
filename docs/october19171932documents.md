@@ -7,8 +7,8 @@
 1922: [The Economic Structure of Soviet Russia](https://www.marxists.org/archive/bukharin/works/1922/03/econstruct.html) - Bukharin  
 1922: [Eleventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1922/mar/27.htm) - Lenin  
 1922: [Last Testament](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm) - Lenin  
-1922: [Pages From a Diary](https://www.marxists.org/archive/lenin/works/1923/jan/02.htm) - Lenin  
 # Death of Lenin, Socialism in One Country, March Action in Germany, & the Emergence of the Left & Right Oppositions, 1923-1925:
+1923: [On Education](https://www.marxists.org/archive/lenin/works/1923/jan/02.htm) - Lenin  
 1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin  
 1923: [How We Should Reorganize the Workers’ & Peasants’ Inspection](https://www.marxists.org/archive/lenin/works/1923/jan/23.htm) - Lenin  
 1923: [Better Fewer, but Better](https://www.marxists.org/archive/lenin/works/1923/mar/02.htm) - Lenin  
