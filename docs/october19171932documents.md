@@ -16,6 +16,7 @@
 1923: [Observations in Germany](https://www.marxists.org/archive/serge/1923/xx/observations.html) - Serge  
 1923: [The Twelfth Congress of the Bolsheviks](https://www.marxists.org/archive/bukharin/works/1923/ci/12_congress.htm) - Bukharin  
 1924: [Constitution of the USSR](https://soviethistory.msu.edu/1924-2/union-treaty/union-treaty-texts/first-union-constitution/)  
+1924: [Lenin on the Path of the Revolution](https://quinterna.org/archivio/1924_1926/lenincamminoriv1.htm) - PCd’I  
 1924: [The Lessons of October](https://www.marxists.org/archive/trotsky/1924/lessons/index.htm) - Trotsky  
 1924: [The Theory of Permanent Revolution](https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm) - Bukharin  
 1925: [The Road to Socialism & the Worker-Peasant Alliance](https://cdn.discordapp.com/attachments/984866180714094592/1047723265038229534/Bukharin_-_The_Road_to_Socialism_and_the_Worker-Peasant_Alliance_1925.pdf) - Bukharin  
