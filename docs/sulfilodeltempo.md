@@ -140,3 +140,11 @@
 133. [Southernism & Moralism](https://www.international-communist-party.org/English/Texts/ThreadTi/54Southernism.htm)
 ## 1955
 134. [Relativity & Determinism]()
+## Archives of On the Thread of Time
+### Italian
+1. [N+1](https://quinterna.org/archivio/filitempo/0_1949_55.htm)
+2. [Sinistra](http://www.sinistra.net/lib/bor/fdtindex.html)
+3. [ICP](https://www.international-communist-party.org/Indices/IFdTBc.htm)
+### English
+1. [N+1](https://www.quinterna.org/lingue/english/historical_en/threadoftime/1949_55en.htm)
+2. [Libri Incogniti](https://libriincogniti.wordpress.com/on-the-thread-of-time/)
