@@ -116,7 +116,7 @@
 110. [The Battilocchio in History](http://www.international-communist-party.org/English/Texts/ThreadTi/Battiloc.htm)
 111. [Superman Deflate!](https://www.international-communist-party.org/CommLeft/CL50.htm#superman)
 112. [Carlylean Phantoms](http://www.international-communist-party.org/English/Texts/ThreadTi/53Carlyl.htm)
-113. [Class, Bureaucracy, State, Party - Part I: The Batrachomyomachia](https://www.international-communist-party.org/English/Texts/ThreadTi/53Batrac.htm)
+113. [Presentation & Summary](https://www.international-communist-party.org/CommLeft/CL49.htm#archive), [Class, Bureaucracy, State, Party - Part I: The Batrachomyomachia](https://www.international-communist-party.org/English/Texts/ThreadTi/53Batrac.htm)
 114. [Class, Bureaucracy, State, Party - Part II: The Croaking of Praxis](https://www.international-communist-party.org/CommLeft/CL49.htm#Croaking)
 115. [Class, Bureaucracy, State, Party - Part III: Dance of Puppets: From Consciousness to Culture](https://www.international-communist-party.org/CommLeft/CL49.htm#Puppets)
 116. [The Fake Era of Elizabethans]()
