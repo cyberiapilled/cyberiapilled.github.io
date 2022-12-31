@@ -10,6 +10,7 @@
 # Death of Lenin, Socialism in One Country, March Action in Germany, & the Emergence of the Left & Right Oppositions, 1923-1925:
 1923: [On Education](https://www.marxists.org/archive/lenin/works/1923/jan/02.htm) - Lenin  
 1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin  
+1923: [Our Revolution](https://www.marxists.org/archive/lenin/works/1923/jan/16.htm) - Lenin
 1923: [How We Should Reorganize the Workers’ & Peasants’ Inspection](https://www.marxists.org/archive/lenin/works/1923/jan/23.htm) - Lenin  
 1923: [Better Fewer, but Better](https://www.marxists.org/archive/lenin/works/1923/mar/02.htm) - Lenin  
 1923: [The New Course](https://www.marxists.org/archive/trotsky/1923/newcourse/index.htm) - Trotsky  
