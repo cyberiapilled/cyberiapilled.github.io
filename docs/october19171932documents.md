@@ -1,10 +1,10 @@
 # October Insurrection, the Beginning of the World Revolution, the Russian Civil War, & War Communism, & the Formation of the Communist International, 1917-1920:
-1917: [April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) - Lenin
+1917: [April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) - Lenin  
 1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)  
-1918: [What Does the Spartacus League Want?](https://www.marxists.org/archive/luxemburg/1918/12/14.htm) - Luxemburg
-1919: [First Congress of the Communist International](https://www.marxists.org/history/international/comintern/1st-congress/index.htm)
+1918: [What Does the Spartacus League Want?](https://www.marxists.org/archive/luxemburg/1918/12/14.htm) - Luxemburg  
+1919: [First Congress of the Communist International](https://www.marxists.org/history/international/comintern/1st-congress/index.htm)  
 1919: [Eighth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1919/rcp8th/index.htm)- Lenin  
-1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)
+1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)  
 # The NEP, Economic Restoration, the End of the Civil War, & the Formation of the USSR, 1921-1922:
 1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin  
 1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin  
