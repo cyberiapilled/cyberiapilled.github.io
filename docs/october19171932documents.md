@@ -43,7 +43,7 @@
 1927: [Platform of the Joint Opposition](https://www.marxists.org/archive/trotsky/1927/opposition/index.htm)- Trotsky  
 1927: [The Class Struggle in the Chinese Revolution](https://www.marxists.org/archive/serge/1927/china/index.html) - Serge  
 1927: [The World Revolution & the USSR](https://www.marxists.org/archive/bukharin/works/1927/worldrev.htm) - Bukharin  
-# Expulsion of the Right Opposition & the First Five Year Plan, 1928-1932:
+# Expulsion of the Right Opposition, the First Five Year Plan, & the Beginning of the Great Depression, 1928-1932:
 1928: [Notes of an Economist](https://cdn.discordapp.com/attachments/984866180714094592/1047728831777230858/notes_of_an_economist_bukharin.pdf) - Bukharin  
 1928: [The Crisis of the International](https://www.international-communist-party.org/English/Texts/28CrisisCI.htm) - Prometeo  
 1929: [How Stalin-Bukharin Destroyed the Chinese Revolution](https://revolutionsnewsstand.com/2022/12/06/how-stalin-bucharin-destroyed-the-chinese-revolution-an-appeal-to-all-the-comrades-of-the-chinese-communist-party-by-chen-duxiu-1929/) - Duxiu  
