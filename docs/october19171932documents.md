@@ -6,6 +6,7 @@
 1919: [Socialism & Anarchy](https://www.international-communist-party.org/CommLeft/CL05.htm#Socialism_and_Anarchy) - PCd’I  
 1919: [Eighth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1919/rcp8th/index.htm) - Lenin  
 1919: [Communist Thought & Action in the Third International](https://www.international-communist-party.org/CommLeft/CL06.htm#Communistthought) - PCd’I & Pankhurst  
+1919: [Economics & Politics in the Era of the Dictatorship of the Proletariat](https://www.marxists.org/archive/lenin/works/1919/oct/30.htm) - Lenin  
 1920: [Socialists & Anarchists](https://www.international-communist-party.org/CommLeft/CL05.htm#Socialists_and_Anarchists) - PCd’I  
 1920: [Bolshevism Defamed by the Anarchists](https://www.international-communist-party.org/CommLeft/CL05.htm#Bolshevism) - PCd’I  
 1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)  
