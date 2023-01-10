@@ -77,3 +77,17 @@
 1945: [At Yalta, “Democratic” Imperialisms Reaffirm the Chains of Capitalist Slavery](https://www.international-communist-party.org/English/REPORTS/WARS/At_Yalta_1945.htm) - ICP  
 # The Immediate Post-World War 2 Period, 1946-1947:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
+
+1944: [Workers! The Communist Left Speaks to You](https://www.international-communist-party.org/English/REPORTS/WARS/Workers_1944.htm) - ICP  
+1944: [For a New International](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#PER_UNA_NUOVA_INTERNAZIONALE) - ICP  
+1944: [Appeal to the Partisans](https://www.international-communist-party.org/English/REPORTS/WARS/Appeal_Partisans.htm) - ICP  
+1944: [Manifesto](https://www.international-communist-party.org/English/REPORTS/WARS/Manifesto_2WW.htm) - ICP  
+1944: [Proletarians! Desert The National Liberation Committee](https://www.international-communist-party.org/English/REPORTS/WARS/Desert_NLC_1944.htm) - ICP  
+1944: [Revolutionary General Strike or Political Adventure in the Service of Capitalism?](https://www.international-communist-party.org/English/REPORTS/WARS/RevolutionaryGeneralStrike_1944.htm) - ICP  
+1944: [Ercoli Supports the Monarchy](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#ERCOLI_APPOGGIA_LA_MONARCHIA) - ICP  
+1944: [On the Margin of the Strikes](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#IN_MARGINE_AGLI_SCIOPERI) - ICP  
+1944: [Long Live the Proletarian Revolution!](https://www.international-communist-party.org/English/REPORTS/WARS/Long_Live_1944.htm) - ICP  
+1944: [The German Proletariat & the Responsibilities of the War](https://www.international-communist-party.org/English/REPORTS/WARS/Network_Imperialism_1944.htm) - ICP  
+1944: [Long Live the Warsaw Commune!](https://www.international-communist-party.org/English/REPORTS/WARS/LongLiveWarsawCommune_1944.htm) - ICP  
+1944: [Manifesto of the Communist Left to the Proletarians of Europe](https://www.international-communist-party.org/English/Texts/Manif44E.htm) - ICP  
+1944: [Garbage Dump](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#IMMONDEZZAIO) - ICP  
