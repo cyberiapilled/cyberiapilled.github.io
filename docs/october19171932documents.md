@@ -1,3 +1,5 @@
+# WW1 & the Crisis in International Social Democracy, 1914-1916:
+
 # October Insurrection, the Beginning of the World Revolution, the Russian Civil War, & War Communism, & the Formation of the Communist International, 1917-1920:
 1917: [April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) - Lenin  
 1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)  
@@ -21,7 +23,7 @@
 1922: [Eleventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1922/mar/27.htm) - Lenin  
 1922: [Report on Fascism](https://www.international-communist-party.org/BasicTexts/English/22Fascis.htm) - PCd’I  
 1922: [Last Testament](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm) - Lenin  
-# Death of Lenin, Socialism in One Country, March Action in Germany, & the Emergence of the Left & Right Oppositions, 1923-1925:
+# Death of Lenin, Socialism in One Country, Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1923-1925:
 1923: [On Education](https://www.marxists.org/archive/lenin/works/1923/jan/02.htm) - Lenin  
 1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin  
 1923: [Our Revolution](https://www.marxists.org/archive/lenin/works/1923/jan/16.htm) - Lenin  
@@ -54,3 +56,10 @@
 1931: [The Character of the Revolution](https://www.marxists.org/archive/trotsky/1931/spain/spain05.htm) - Trotsky  
 1931: [Nine-Tenths of Our Activities for the Revolution in Spain](https://www.marxists.org/archive/trotsky/1931/07/9_tenths.htm) - Trotsky  
 1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin  
+# Second Five Year Plan, Nazis Take Power, 1936 Constitution in the USSR, the Start of the Great Purge, & the Start of the Spanish Civil War, 1933-1936:
+
+# End of the Stalinist Purges, 1937-1938:
+
+# End of the Spanish Civil War, WW2, Formation of the ICP, & the End of the Great Depression, 1939-1945:
+
+# The Immediate Post-World War 2 Period, 1946-1947:
