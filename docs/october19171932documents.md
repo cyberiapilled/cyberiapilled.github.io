@@ -57,9 +57,15 @@
 1931: [Nine-Tenths of Our Activities for the Revolution in Spain](https://www.marxists.org/archive/trotsky/1931/07/9_tenths.htm) - Trotsky  
 1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin  
 # Second Five Year Plan, Nazis Take Power, 1936 Constitution in the USSR, the Start of the Great Purge, & the Start of the Spanish Civil War, 1933-1936:
-
+1936: [The “Popular Front” Triumphs in Spain](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_POPULAR_FRONT) - Bilan  
+1936: [Against the Imperialist Front for the Massacre of Spanish Workers](https://www.international-communist-party.org/English/Texts/SpainBil.htm#AGAINST) - Bilan  
+1936: [The Spanish Imperialist War & the Massacre of the Asturian Miners](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_SPANISH) - Bilan  
+1936: [The Real Meaning of the Non‑Intervention Committee](https://www.international-communist-party.org/English/REPORTS/WARS/NonIntervention_1936.htm#RealMeaning) - Bilan  
+1936: [The Only Class Weapon](https://www.international-communist-party.org/English/REPORTS/WARS/NonIntervention_1936.htm#OnlyClass) - Bilan  
 # End of the Stalinist Purges, 1937-1938:
-
+1937: [While the Popular Front Goons Massacre Proletarians](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm) - Prometeo  
+1937: [Machine-Gun Strafing, Shelling, Repression](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm#Machineguns) - Prometeo  
+1937: [Glimmers of Light](https://www.international-communist-party.org/English/REPORTS/WARS/GlimmersLight_1937.htm) - Prometeo  
 # End of the Spanish Civil War, WW2, Formation of the ICP, & the End of the Great Depression, 1939-1945:
 
 # The Immediate Post-World War 2 Period, 1946-1947:
