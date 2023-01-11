@@ -8,6 +8,7 @@
 1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)  
 1918: [What Does the Spartacus League Want?](https://www.marxists.org/archive/luxemburg/1918/12/14.htm) - Luxemburg  
 1918: [On the Spartacus Programme](https://www.marxists.org/archive/luxemburg/1918/12/30.htm) - Luxemburg  
+1919: [Bolshevism, a Plant of Every Climate](https://libriincogniti.wordpress.com/2020/07/29/il-soviet-bolshevism-a-plant-of-every-climate/) - PSI  
 1919: [First Congress of the Communist International](https://www.marxists.org/history/international/comintern/1st-congress/index.htm)  
 1919: [Socialism & Anarchy](https://www.international-communist-party.org/CommLeft/CL05.htm#Socialism_and_Anarchy) - PCd’I  
 1919: [Eighth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1919/rcp8th/index.htm) - Lenin  
@@ -21,6 +22,7 @@
 1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)  
 1920: [The Manifesto/Platform of the Party Left](https://www.international-communist-party.org/BasicTexts/English/20MaLeft.htm) - PSI  
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
+1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
 
 1919: [In the Red Light of Sacrifice](https://www.marxists.org/archive/bordiga/works/1919/01/redlight-ll.html) - PSI  
 1919: [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) - PSI  
@@ -28,7 +30,6 @@
 1919/1920: [Letters to the IIIrd International](https://www.marxists.org/archive/bordiga/works/1920/letters.htm) - PSI  
 1920: [Towards the Establishment of Workers’ Councils in Italy](https://www.marxists.org/archive/bordiga/works/1920/workers-councils.htm) - PSI  
 1920: [Seize Power or Seize the Factory?](https://www.marxists.org/archive/bordiga/works/1920/seize-power.htm) - PSI  
-1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
 # The NEP, Economic Restoration, the End of the Civil War, & the Formation of the USSR, 1921-1922:
 1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin  
 1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin  
