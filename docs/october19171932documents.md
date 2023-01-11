@@ -16,6 +16,7 @@
 1920: [Theses of the Abstentionist Communist Fraction](https://www.international-communist-party.org/BasicTexts/English/20ThFrac.htm) - PSI  
 1920: [Bolshevism Defamed by the Anarchists](https://www.international-communist-party.org/CommLeft/CL05.htm#Bolshevism) - PCd’I  
 1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)  
+1920: [The Manifesto/Platform of the Party Left](https://www.international-communist-party.org/BasicTexts/English/20MaLeft.htm) - PSI  
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
 # The NEP, Economic Restoration, the End of the Civil War, & the Formation of the USSR, 1921-1922:
 1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin  
