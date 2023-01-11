@@ -1,5 +1,8 @@
 # WW1 & the Crisis in International Social Democracy, 1914-1916:
-
+1914: [The War & the International](https://www.marxists.org/archive/trotsky/1914/war/index.htm) - Trotsky  
+1915: [Resolutions on the Imperialist War](https://www.international-communist-party.org/BasicTexts/English/15LeniGE.htm) - Lenin  
+1915: [The Main Enemy Is at Home!](https://www.marxists.org/archive/liebknecht-k/works/1915/05/main-enemy-home.htm) - Liebknecht  
+1915: [Who Needs the War?](https://www.marxists.org/archive/kollonta/1915/whoneeds.htm) - Kollontai  
 # October Insurrection, the Beginning of the World Revolution, the Russian Civil War, & War Communism, & the Formation of the Communist International, 1917-1920:
 1917: [April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) - Lenin  
 1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)  
