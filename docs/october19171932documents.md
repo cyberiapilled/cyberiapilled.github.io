@@ -18,6 +18,14 @@
 1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)  
 1920: [The Manifesto/Platform of the Party Left](https://www.international-communist-party.org/BasicTexts/English/20MaLeft.htm) - PSI  
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
+
+1919: [In the Red Light of Sacrifice](https://www.marxists.org/archive/bordiga/works/1919/01/redlight-ll.html) - PSI  
+1919: [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) - PSI  
+1919: [Is This the Time to Form “Soviets”?](https://www.marxists.org/archive/bordiga/works/1919/soviets.htm) - PSI  
+1919/1920: [Letters to the IIIrd International](https://www.marxists.org/archive/bordiga/works/1920/letters.htm) - PSI  
+1920: [Towards the Establishment of Workers’ Councils in Italy](https://www.marxists.org/archive/bordiga/works/1920/workers-councils.htm) - PSI  
+1920: [Seize Power or Seize the Factory?](https://www.marxists.org/archive/bordiga/works/1920/seize-power.htm) - PSI  
+1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
 # The NEP, Economic Restoration, the End of the Civil War, & the Formation of the USSR, 1921-1922:
 1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin  
 1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin  
