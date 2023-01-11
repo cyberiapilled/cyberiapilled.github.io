@@ -13,6 +13,7 @@
 1919: [Economics & Politics in the Era of the Dictatorship of the Proletariat](https://www.marxists.org/archive/lenin/works/1919/oct/30.htm) - Lenin  
 1920: [Speech at the Third All-Russia Conference of Directors of Adult Education](https://www.marxists.org/archive/lenin/works/1920/feb/25.htm) - Lenin  
 1920: [Socialists & Anarchists](https://www.international-communist-party.org/CommLeft/CL05.htm#Socialists_and_Anarchists) - PCd’I  
+1920: [Theses of the Abstentionist Communist Fraction](https://www.international-communist-party.org/BasicTexts/English/20ThFrac.htm) - PSI  
 1920: [Bolshevism Defamed by the Anarchists](https://www.international-communist-party.org/CommLeft/CL05.htm#Bolshevism) - PCd’I  
 1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)  
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
