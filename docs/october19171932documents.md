@@ -67,8 +67,6 @@
 1928: [Notes of an Economist](https://cdn.discordapp.com/attachments/984866180714094592/1047728831777230858/notes_of_an_economist_bukharin.pdf) - Bukharin  
 1928: [The Crisis of the International](https://www.international-communist-party.org/English/Texts/28CrisisCI.htm) - Prometeo  
 1929: [How Stalin-Bukharin Destroyed the Chinese Revolution](https://revolutionsnewsstand.com/2022/12/06/how-stalin-bucharin-destroyed-the-chinese-revolution-an-appeal-to-all-the-comrades-of-the-chinese-communist-party-by-chen-duxiu-1929/) - Duxiu  
-1931: [The Character of the Revolution](https://www.marxists.org/archive/trotsky/1931/spain/spain05.htm) - Trotsky  
-1931: [Nine-Tenths of Our Activities for the Revolution in Spain](https://www.marxists.org/archive/trotsky/1931/07/9_tenths.htm) - Trotsky  
 1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin  
 # Second Five Year Plan, Nazis Take Power, 1936 Constitution in the USSR, the Start of the Great Purge, & the Start of the Spanish Civil War, 1933-1936:
 1936: [The “Popular Front” Triumphs in Spain](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_POPULAR_FRONT) - Bilan  
