@@ -3,7 +3,7 @@
 1915: [Resolutions on the Imperialist War](https://www.international-communist-party.org/BasicTexts/English/15LeniGE.htm) - Lenin  
 1915: [The Main Enemy Is at Home!](https://www.marxists.org/archive/liebknecht-k/works/1915/05/main-enemy-home.htm) - Liebknecht  
 1915: [Who Needs the War?](https://www.marxists.org/archive/kollonta/1915/whoneeds.htm) - Kollontai  
-# October Insurrection, the Beginning of the World Revolution, the Russian Civil War, & War Communism, & the Formation of the Communist International, 1917-1920:
+# October Insurrection, the Beginning of the World Revolution, the Russian Civil War, War Communism, & the Formation of the Communist International, 1917-1920:
 1917: [April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) - Lenin  
 1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)  
 1918: [What Does the Spartacus League Want?](https://www.marxists.org/archive/luxemburg/1918/12/14.htm) - Luxemburg  
@@ -23,7 +23,6 @@
 1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)  
 1920: [The Manifesto/Platform of the Party Left](https://www.international-communist-party.org/BasicTexts/English/20MaLeft.htm) - PSI  
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
-1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
 
 1919: [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) - PSI  
 1919: [Is This the Time to Form “Soviets”?](https://www.marxists.org/archive/bordiga/works/1919/soviets.htm) - PSI  
@@ -35,6 +34,7 @@
 1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin  
 1922: [The Economic Structure of Soviet Russia](https://www.marxists.org/archive/bukharin/works/1922/03/econstruct.html) - Bukharin  
 1922: [Eleventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1922/mar/27.htm) - Lenin  
+1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
 1922: [Report on Fascism](https://www.international-communist-party.org/BasicTexts/English/22Fascis.htm) - PCd’I  
 1922: [Last Testament](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm) - Lenin  
 # Death of Lenin, Socialism in One Country, Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1923-1925:
@@ -53,7 +53,7 @@
 1924: [The Theory of Permanent Revolution](https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm) - Bukharin  
 1925: [The Road to Socialism & the Worker-Peasant Alliance](https://cdn.discordapp.com/attachments/984866180714094592/1047723265038229534/Bukharin_-_The_Road_to_Socialism_and_the_Worker-Peasant_Alliance_1925.pdf) - Bukharin  
 1925: [The Trotsky Question](https://www.marxists.org/archive/bordiga/works/1925/trotsky.htm) - PCd’I  
-# Expulsion of the Left Opposition, & the English General Strike, 1926-1927:
+# Expulsion of the Left Opposition, the Shanghai Insurrection, & the English General Strike, 1926-1927:
 1926: [The Tasks of the Bolsheviks](https://www.marxists.org/archive/bukharin/works/1926/01/x01.htm) - Bukharin  
 1926: [Lyon Theses](https://www.international-communist-party.org/BasicTexts/English/LyonThes.htm) - PCd’I  
 1926: [Meeting of the Italian Delegation With Stalin](https://libriincogniti.wordpress.com/2020/04/04/6th-ecci-meeting-of-the-italian-delegation-with-stalin-22-february-1926/) - PCd’I  
