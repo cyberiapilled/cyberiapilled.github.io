@@ -100,5 +100,5 @@
 1944: [Long Live the Warsaw Commune!](https://www.international-communist-party.org/English/REPORTS/WARS/LongLiveWarsawCommune_1944.htm) - ICP  
 1944: [The German Proletariat & the Responsibilities of the War](https://www.international-communist-party.org/English/REPORTS/WARS/Network_Imperialism_1944.htm) - ICP  
 1945: [At Yalta, “Democratic” Imperialisms Reaffirm the Chains of Capitalist Slavery](https://www.international-communist-party.org/English/REPORTS/WARS/At_Yalta_1945.htm) - ICP  
-# The Immediate Post-World War 2 Period, 1946-1947:
+# The Immediate Post-World War 2 Period, 1946-1950:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
