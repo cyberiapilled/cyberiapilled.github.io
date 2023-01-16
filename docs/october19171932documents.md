@@ -104,12 +104,14 @@
 1944: [Long Live the Warsaw Commune!](https://www.international-communist-party.org/English/REPORTS/WARS/LongLiveWarsawCommune_1944.htm) - ICP  
 1944: [The German Proletariat & the Responsibilities of the War](https://www.international-communist-party.org/English/REPORTS/WARS/Network_Imperialism_1944.htm) - ICP  
 1945: [At Yalta, “Democratic” Imperialisms Reaffirm the Chains of Capitalist Slavery](https://www.international-communist-party.org/English/REPORTS/WARS/At_Yalta_1945.htm) - ICP  
+1945: [The Party Platform](https://www.international-communist-party.org/BasicTexts/English/45Platfo.htm) - ICP  
 ## The Immediate Post-World War 2 Period, 1946-1950:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
 1947: [Situation of the American Workers](https://www.international-communist-party.org/English/TheCPart/TCP_040.htm#situ) - AFLCI  
 1950: [Appeal for the Movement’s International Reorganization](https://www.international-communist-party.org/BasicTexts/English/50Appeal.htm) - ICP  
 ## Split in the Party, 1951-1952:
 ## Destalinization, 1953-1961:
+1961: [The Meaning of the Cuban Revolution in Light of Marxism](https://cdn.discordapp.com/attachments/705052371839090737/1056606957378748566/The_Meaning_of_the_Cuban_Revolution_in_Light_of_Marxism.pdf) - ICP  
 ## Ghetto Riots in America, 1964-1969:
 1964: [Myths About American Democracy Crumble (https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#2) - ICP  
 1965: [Blacks’ Wrath Had the Rotten Pillars of the Bourgeois & Democratic "Civilization" Crumbling](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#3) - ICP  
