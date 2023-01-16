@@ -107,6 +107,7 @@
 ## The Immediate Post-World War 2 Period, 1946-1950:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
 1947: [Situation of the American Workers](https://www.international-communist-party.org/English/TheCPart/TCP_040.htm#situ) - AFLCI  
+1950: [Appeal for the Movement’s International Reorganization](https://www.international-communist-party.org/BasicTexts/English/50Appeal.htm) - ICP  
 ## Split in the Party, 1951-1952:
 ## Destalinization, 1953-1961:
 ## Ghetto Riots in America, 1964-1969:
