@@ -30,7 +30,7 @@
 1919/1920: [Letters to the IIIrd International](https://www.marxists.org/archive/bordiga/works/1920/letters.htm) - PSI  
 1920: [Towards the Establishment of Workers’ Councils in Italy](https://www.marxists.org/archive/bordiga/works/1920/workers-councils.htm) - PSI  
 1920: [Seize Power or Seize the Factory?](https://www.marxists.org/archive/bordiga/works/1920/seize-power.htm) - PSI  
-# The NEP, Economic Restoration, the End of the Civil War, & the Formation of the USSR, 1921-1922:
+# The NEP, Economic Restoration, the End of the Civil War, the Formation of the USSR, the Death of Lenin, Socialism in One Country, the Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1921-1925:
 1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin  
 1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin  
 1922: [The Economic Structure of Soviet Russia](https://www.marxists.org/archive/bukharin/works/1922/03/econstruct.html) - Bukharin  
@@ -38,7 +38,6 @@
 1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
 1922: [Report on Fascism](https://www.international-communist-party.org/BasicTexts/English/22Fascis.htm) - PCd’I  
 1922: [Last Testament](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm) - Lenin  
-# Death of Lenin, Socialism in One Country, Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1923-1925:
 1923: [On Education](https://www.marxists.org/archive/lenin/works/1923/jan/02.htm) - Lenin  
 1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin  
 1923: [Our Revolution](https://www.marxists.org/archive/lenin/works/1923/jan/16.htm) - Lenin  
@@ -69,13 +68,12 @@
 1928: [The Crisis of the International](https://www.international-communist-party.org/English/Texts/28CrisisCI.htm) - Prometeo  
 1929: [How Stalin-Bukharin Destroyed the Chinese Revolution](https://revolutionsnewsstand.com/2022/12/06/how-stalin-bucharin-destroyed-the-chinese-revolution-an-appeal-to-all-the-comrades-of-the-chinese-communist-party-by-chen-duxiu-1929/) - Duxiu  
 1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin  
-# Second Five Year Plan, the Nazis Take Power in Germany, 1936 Constitution in the USSR, the Start of the Great Purge, & the Start of the Spanish Civil War, 1933-1936:
+# Second Five Year Plan, the Nazis Take Power in Germany, 1936 Constitution in the USSR, the Great Purge, & the Spanish Civil War, 1933-1938:
 1936: [The “Popular Front” Triumphs in Spain](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_POPULAR_FRONT) - Bilan  
 1936: [Against the Imperialist Front for the Massacre of Spanish Workers](https://www.international-communist-party.org/English/Texts/SpainBil.htm#AGAINST) - Bilan  
 1936: [The Spanish Imperialist War & the Massacre of the Asturian Miners](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_SPANISH) - Bilan  
 1936: [The Real Meaning of the Non‑Intervention Committee](https://www.international-communist-party.org/English/REPORTS/WARS/NonIntervention_1936.htm#RealMeaning) - Bilan  
 1936: [The Only Class Weapon](https://www.international-communist-party.org/English/REPORTS/WARS/NonIntervention_1936.htm#OnlyClass) - Bilan  
-# End of the Stalinist Purges, 1937-1938:
 1937: [While the Popular Front Goons Massacre Proletarians](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm) - Prometeo  
 1937: [Machine-Gun Strafing, Shelling, Repression](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm#Machineguns) - Prometeo  
 1937: [Glimmers of Light](https://www.international-communist-party.org/English/REPORTS/WARS/GlimmersLight_1937.htm) - Prometeo  
