@@ -5,6 +5,7 @@
 1915: [Who Needs the War?](https://www.marxists.org/archive/kollonta/1915/whoneeds.htm) - Kollontai  
 # October Insurrection, the Beginning of the World Revolution, the Russian Civil War, War Communism, & the Formation of the Communist International, 1917-1920:
 1917: [April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) - Lenin  
+1918: [Extraordinary Seventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1918/7thcong/index.htm) - Lenin  
 1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)  
 1918: [What Does the Spartacus League Want?](https://www.marxists.org/archive/luxemburg/1918/12/14.htm) - Luxemburg  
 1918: [On the Spartacus Programme](https://www.marxists.org/archive/luxemburg/1918/12/30.htm) - Luxemburg  
