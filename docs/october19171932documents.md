@@ -66,6 +66,7 @@
 1928: [Notes of an Economist](https://cdn.discordapp.com/attachments/984866180714094592/1047728831777230858/notes_of_an_economist_bukharin.pdf) - Bukharin  
 1928: [The Crisis of the International](https://www.international-communist-party.org/English/Texts/28CrisisCI.htm) - Prometeo  
 1929: [How Stalin-Bukharin Destroyed the Chinese Revolution](https://revolutionsnewsstand.com/2022/12/06/how-stalin-bucharin-destroyed-the-chinese-revolution-an-appeal-to-all-the-comrades-of-the-chinese-communist-party-by-chen-duxiu-1929/) - Duxiu  
+1930: [Letter to the International Secretariat](https://www.international-communist-party.org/CommLeft/CL08.htm#Letter) - Prometeo  
 1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin  
 ### Second Five Year Plan, the Nazis Take Power in Germany, 1936 Constitution in the USSR, the Great Purge, & the Spanish Civil War, 1933-1938:
 1933: [The Problem of the War](https://www.international-communist-party.org/English/REPORTS/WARS/ProblemOfWar_1933.htm) - Prometeo  
@@ -142,6 +143,11 @@
 1920: [Strikes & Massacres in the Current Hour](https://libriincogniti.wordpress.com/2020/08/02/il-soviet-strikes-and-massacres-in-the-current-hour/) - PSI  
 1920: [The Strike in Turin](https://libriincogniti.wordpress.com/2020/08/02/il-soviet-the-strike-in-turin/) - PSI  
 1920: [The Situation in Germany & the Communist Movement](https://libriincogniti.wordpress.com/2020/08/20/il-soviet-the-situation-in-germany-and-the-communist-movement/) - PSI  
+1922: [The Tactics of the Communist International](https://www.international-communist-party.org/CommLeft/CL44.htm#tacticscominternational) - PCd’I  
+1923: [Big Stick in Poplar](https://www.international-communist-party.org/CommLeft/CL03.htm#The_Big_Stick_In_Poplar) - Pankhurst  
+1923: [“Practical” Socialists](https://www.international-communist-party.org/CommLeft/CL04.htm#Practical_Socialists) - Morris  
+1928: [Capitalism’s Mortal Crisis](https://www.international-communist-party.org/CommLeft/CL10_11.htm#MORTALCRISIS) - Prometeo  
+1929: [McDonald in power](https://www.international-communist-party.org/CommLeft/CL10_11.htm#McDONALD) - Prometeo  
 1931: [The Gilded Reaction](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm) - Prometeo  
 1931: [War or Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm#WarOrRevolution) - Prometeo  
 1934: [Anti-Fascism: Formula for Confusion](https://www.quinterna.org/lingue/english/historical_en/antifascism_confusion.htm) - Bilan  
