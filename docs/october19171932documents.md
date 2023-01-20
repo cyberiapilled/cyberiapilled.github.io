@@ -161,6 +161,7 @@
 1980: [Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
 1992: [Los Angeles, Revolt of Despair in the Tragic Absence of the Organized Working Class](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#9) - ICP  
 1992: [Towards the Rebirth of the Working Class Trade Union](https://www.international-communist-party.org/English/Document/92Toward.htm#Towards) - ICP  
+2001: [Terrorism - Antiterrorism: Makeshifts to Force the Proletariat Into the Third Imperialist War](https://www.sinistra.net/lib/upt/comlef/coue/couemxybee.html) - ICP  
 2014: [The Proletariat in Ukraine Must Struggle Against Both the Russian & Western Imperialist Fronts](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_Ukraine_2014.htm) - ICP  
 2014: [The Maneuvers of the Imperialisms in the Ukraine: Preparations for the Future World War](https://www.international-communist-party.org/English/REPORTS/WARS/ManeuversInUkraine_2014.htm) - ICP  
 2014: [In the Ukraine: Stale Nationalisms Used to Cover Up Inter-Imperialist Conflict](https://www.international-communist-party.org/English/REPORTS/WARS/StaleNationalism_2014.htm) - ICP  
