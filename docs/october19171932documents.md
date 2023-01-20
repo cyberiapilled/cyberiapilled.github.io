@@ -165,5 +165,5 @@
 2014: [The Proletariat in Ukraine Must Struggle Against Both the Russian & Western Imperialist Fronts](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_Ukraine_2014.htm) - ICP  
 2014: [The Maneuvers of the Imperialisms in the Ukraine: Preparations for the Future World War](https://www.international-communist-party.org/English/REPORTS/WARS/ManeuversInUkraine_2014.htm) - ICP  
 2014: [In the Ukraine: Stale Nationalisms Used to Cover Up Inter-Imperialist Conflict](https://www.international-communist-party.org/English/REPORTS/WARS/StaleNationalism_2014.htm) - ICP  
-2014: [War maneuvers in Europe](https://www.international-communist-party.org/English/REPORTS/WARS/WarManEurope_2014.htm) - ICP  
+2014: [War Maneuvers in Europe](https://www.international-communist-party.org/English/REPORTS/WARS/WarManEurope_2014.htm) - ICP  
 2016: [Interview on the SI Cobas Movement](https://libcom.org/article/interview-international-communist-party-sicobas-movement) - ICP  
