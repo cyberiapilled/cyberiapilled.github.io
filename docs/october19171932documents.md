@@ -112,6 +112,7 @@
 1950: [Appeal for the Movement’s International Reorganization](https://www.international-communist-party.org/BasicTexts/English/50Appeal.htm) - ICP  
 ### Split in the Party, 1951-1952:
 ### Destalinization, 1953-1961:
+1957: [Marxism & Russia](https://www.sinistra.net/lib/upt/compro/lipi/lipifbibie.html) - ICP  
 1961: [The Meaning of the Cuban Revolution in Light of Marxism](https://cdn.discordapp.com/attachments/705052371839090737/1056606957378748566/The_Meaning_of_the_Cuban_Revolution_in_Light_of_Marxism.pdf) - ICP  
 ### Ghetto Riots in America, 1964-1969:
 1964: [Myths About American Democracy Crumble](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#2) - ICP  
