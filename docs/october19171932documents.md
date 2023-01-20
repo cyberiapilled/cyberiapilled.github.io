@@ -135,7 +135,7 @@
 2022: [In Kazakhstan the Working Class Has Shown What It Is Capable of Doing & What It Will Do](https://www.international-communist-party.org/English/TheCPart/TCP_039.htm#Kazakhstan) - ICP  
 2022: [Capitalism Is War: To Stop It, the Working Class Must Bring Capitalism Down](https://www.international-communist-party.org/English/TheCPart/TCP_040.htm#War) - ICP  
 2022: [Government Armies & “People’s Resistance” Are Being Used Against the Working Class](https://www.international-communist-party.org/English/TheCPart/TCP_041.htm#War) - ICP  
-2022: [This Year’s Biggest Strike Is by 48,000 Academic Workers at the University of California](https://labornotes.org/2022/11/years-biggest-strike-48000-academic-workers-university-california) - Labor Notes  
+2022: [1877 American Rail Strike: A Historical Lesson for Today’s Working Class](https://www.international-communist-party.org/English/TheCPart/TCP_047.htm#5) - ICP  2022: [This Year’s Biggest Strike Is by 48,000 Academic Workers at the University of California](https://labornotes.org/2022/11/years-biggest-strike-48000-academic-workers-university-california) - Labor Notes  
 2022: [American Rail Workers!](https://www.international-communist-party.org/English/TheCPart/TCP_049.htm#1) - ICP  
 2022: [Ontario Education Workers Stand Up to Illegalization of Strike With Threat of General Strike](https://www.international-communist-party.org/English/TheCPart/TCP_049.htm#2) - ICP  
 
@@ -154,7 +154,10 @@
 1934: [Anti-Fascism: Formula for Confusion](https://www.quinterna.org/lingue/english/historical_en/antifascism_confusion.htm) - Bilan  
 1936: [Lenin, Liebknecht & Luxemburg Belong to the World Proletariat](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_2) - Prometeo  
 1936: [Who Are the Heirs of Lenin, Luxemburg, Liebknecht?](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_3) - Bilan  
+1949: [The Liquidation of What Was Called the Greek Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/Liquidation_Greek_1949.htm) - ICP  
+1953: [Remembering the Warsaw Commune](https://www.international-communist-party.org/English/REPORTS/WARS/Warsaw_commune_1953.htm) - ICP  
 1954: [The Leading Civilization in “Segregation”](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#1) - ICP  
+1964: [How to Write History](https://www.international-communist-party.org/CommLeft/CL10_11.htm#HOW_TO_WRITE) - ICP  
 1970: [Short Notes on the Conditions of the Resurgence of the Proletarian Movement in the US](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#6) - ICP  
 1971: [The Black Panther Movement](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#7) - ICP  
 1979: [Outside & Against the Existing Trade Unions](https://www.international-communist-party.org/English/Document/92Toward.htm#Outside) - ICP  
