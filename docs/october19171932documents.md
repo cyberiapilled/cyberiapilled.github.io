@@ -59,7 +59,7 @@
 1926: [Position of the Left at the 6th Enlarged Executive](https://www.international-communist-party.org/BasicTexts/English/26EnlCCI.htm) - PCd’I  
 1926: [Correspondence Between Bordiga & Trotsky](https://libcom.org/article/correspondence-between-bordiga-and-trotsky)  
 1926: [Letter to Korsch](https://www.international-communist-party.org/CommLeft/CL09.htm#LEFT_ARCHIVES) - Bordiga  
-1927: [Platform of the Joint Opposition](https://www.marxists.org/archive/trotsky/1927/opposition/index.htm)- Trotsky  
+1927: [Platform of the Joint Opposition](https://www.marxists.org/archive/trotsky/1927/opposition/index.htm) - Trotsky  
 1927: [The Class Struggle in the Chinese Revolution](https://www.marxists.org/archive/serge/1927/china/index.html) - Serge  
 1927: [The World Revolution & the USSR](https://www.marxists.org/archive/bukharin/works/1927/worldrev.htm) - Bukharin  
 ### Expulsion of the Right Opposition, the First Five Year Plan, & the Beginning of the Great Depression, 1928-1932:
@@ -124,7 +124,7 @@
 1967: [Glory to the Rioting Black Proletarians](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4) - ICP  
 1967: [Need for Revolutionary Theory & the Marxist Party in America](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4.1) - ICP  
 1968: [The True Way of the Black Proletariat](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#5) - ICP  
-1969 - [The Only Struggle Against Fascism is the Struggle for Proletarian Revolution](https://www.international-communist-party.org/English/Document/69TheOnl.htm) - ICP  
+1969: [The Only Struggle Against Fascism is the Struggle for Proletarian Revolution](https://www.international-communist-party.org/English/Document/69TheOnl.htm) - ICP  
 ### Split in the Party, 1973-1974:
 1974: [On the Same Road as Always](https://www.international-communist-party.org/English/Document/74SameRo.htm) - ICP  
 ### The Collapse of the Eastern Bloc, 1989-1991:
@@ -135,7 +135,7 @@
 2022: [In Kazakhstan the Working Class Has Shown What It Is Capable of Doing & What It Will Do](https://www.international-communist-party.org/English/TheCPart/TCP_039.htm#Kazakhstan) - ICP  
 2022: [Capitalism Is War: To Stop It, the Working Class Must Bring Capitalism Down](https://www.international-communist-party.org/English/TheCPart/TCP_040.htm#War) - ICP  
 2022: [Government Armies & “People’s Resistance” Are Being Used Against the Working Class](https://www.international-communist-party.org/English/TheCPart/TCP_041.htm#War) - ICP  
-2022: [1877 American Rail Strike: A Historical Lesson for Today’s Working Class](https://www.international-communist-party.org/English/TheCPart/TCP_047.htm#5) - ICP  2022: [This Year’s Biggest Strike Is by 48,000 Academic Workers at the University of California](https://labornotes.org/2022/11/years-biggest-strike-48000-academic-workers-university-california) - Labor Notes  
+2022: [1877 American Rail Strike: A Historical Lesson for Today’s Working Class](https://www.international-communist-party.org/English/TheCPart/TCP_047.htm#5) - ICP   2022: [This Year’s Biggest Strike Is by 48,000 Academic Workers at the University of California](https://labornotes.org/2022/11/years-biggest-strike-48000-academic-workers-university-california) - Labor Notes  
 2022: [American Rail Workers!](https://www.international-communist-party.org/English/TheCPart/TCP_049.htm#1) - ICP  
 2022: [Ontario Education Workers Stand Up to Illegalization of Strike With Threat of General Strike](https://www.international-communist-party.org/English/TheCPart/TCP_049.htm#2) - ICP  
 
