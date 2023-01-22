@@ -153,7 +153,5 @@
 1964: [How to Write History](https://www.international-communist-party.org/CommLeft/CL10_11.htm#HOW_TO_WRITE) - ICP  
 1970: [Short Notes on the Conditions of the Resurgence of the Proletarian Movement in the US](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#6) - ICP  
 1971: [The Black Panther Movement](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#7) - ICP  
-1979: [Outside & Against the Existing Trade Unions](https://www.international-communist-party.org/English/Document/92Toward.htm#Outside) - ICP  
 1980: [Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
 1992: [Los Angeles, Revolt of Despair in the Tragic Absence of the Organized Working Class](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#9) - ICP  
-1992: [Towards the Rebirth of the Working Class Trade Union](https://www.international-communist-party.org/English/Document/92Toward.htm#Towards) - ICP  
