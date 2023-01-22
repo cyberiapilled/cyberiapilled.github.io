@@ -129,15 +129,6 @@
 1974: [On the Same Road as Always](https://www.international-communist-party.org/English/Document/74SameRo.htm) - ICP  
 ### The Collapse of the Eastern Bloc, 1989-1991:
 1991: [Communism is Dead. Long Live Communism!](https://www.international-communist-party.org/English/Texts/Russia/LongLive.htm) - ICP  
-### The Great Recession, 2007-2009:
-### Resumption of the Proletarian Movement, 2020-2023:
-2021: [Cuba’s Proletariat in Revolt Against Capitalism’s Crisis](https://www.international-communist-party.org/English/TheCPart/TCP_035.htm#Cuba) - ICP  
-2022: [In Kazakhstan the Working Class Has Shown What It Is Capable of Doing & What It Will Do](https://www.international-communist-party.org/English/TheCPart/TCP_039.htm#Kazakhstan) - ICP  
-2022: [Capitalism Is War: To Stop It, the Working Class Must Bring Capitalism Down](https://www.international-communist-party.org/English/TheCPart/TCP_040.htm#War) - ICP  
-2022: [Government Armies & “People’s Resistance” Are Being Used Against the Working Class](https://www.international-communist-party.org/English/TheCPart/TCP_041.htm#War) - ICP  
-2022: [1877 American Rail Strike: A Historical Lesson for Today’s Working Class](https://www.international-communist-party.org/English/TheCPart/TCP_047.htm#5) - ICP   2022: [This Year’s Biggest Strike Is by 48,000 Academic Workers at the University of California](https://labornotes.org/2022/11/years-biggest-strike-48000-academic-workers-university-california) - Labor Notes  
-2022: [American Rail Workers!](https://www.international-communist-party.org/English/TheCPart/TCP_049.htm#1) - ICP  
-2022: [Ontario Education Workers Stand Up to Illegalization of Strike With Threat of General Strike](https://www.international-communist-party.org/English/TheCPart/TCP_049.htm#2) - ICP  
 
 1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky  
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
@@ -166,10 +157,3 @@
 1980: [Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
 1992: [Los Angeles, Revolt of Despair in the Tragic Absence of the Organized Working Class](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#9) - ICP  
 1992: [Towards the Rebirth of the Working Class Trade Union](https://www.international-communist-party.org/English/Document/92Toward.htm#Towards) - ICP  
-2001: [Terrorism - Antiterrorism: Makeshifts to Force the Proletariat Into the Third Imperialist War](https://www.sinistra.net/lib/upt/comlef/coue/couemxybee.html) - ICP  
-2013: [The Historical Need for Communism](https://www.international-communist-party.org/CommLeft/CL33.htm#Historical) - ICP  
-2014: [The Proletariat in Ukraine Must Struggle Against Both the Russian & Western Imperialist Fronts](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_Ukraine_2014.htm) - ICP  
-2014: [The Maneuvers of the Imperialisms in the Ukraine: Preparations for the Future World War](https://www.international-communist-party.org/English/REPORTS/WARS/ManeuversInUkraine_2014.htm) - ICP  
-2014: [In the Ukraine: Stale Nationalisms Used to Cover Up Inter-Imperialist Conflict](https://www.international-communist-party.org/English/REPORTS/WARS/StaleNationalism_2014.htm) - ICP  
-2014: [War Maneuvers in Europe](https://www.international-communist-party.org/English/REPORTS/WARS/WarManEurope_2014.htm) - ICP  
-2016: [Interview on the SI Cobas Movement](https://libcom.org/article/interview-international-communist-party-sicobas-movement) - ICP  
