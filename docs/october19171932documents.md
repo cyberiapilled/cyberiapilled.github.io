@@ -121,10 +121,10 @@
 1965: [Blacks’ Wrath Had the Rotten Pillars of the Bourgeois and Democratic "Civilization" Crumbling](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#3) - ICP  
 1967: [Glory to the Rioting Black Proletarians](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4) - ICP  
 1967: [Need for Revolutionary Theory and the Marxist Party in America](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4.1) - ICP  
-1968: [The True Way of the Black Proletariat(https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#5) - ICP  
+1968: [The True Way of the Black Proletariat](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#5) - ICP  
 1970: [Short Notes on the Conditions of the Resurgence of the Proletarian Movement in the US](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#6) - ICP  
-1971: The Black Panther Movement](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#7) - ICP  
-1980: Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
+1971: [The Black Panther Movement](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#7) - ICP  
+1980: [Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
 1992: [Los Angeles, Revolt of Despair in the Tragic Absence of the Organized Working Class](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#9) - ICP
 
 1950: [Appeal for the Movement’s International Reorganization](https://www.international-communist-party.org/BasicTexts/English/50Appeal.htm) - ICP  
