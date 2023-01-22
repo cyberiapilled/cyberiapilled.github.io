@@ -79,7 +79,7 @@
 1933: [Manifesto](https://www.international-communist-party.org/English/REPORTS/WARS/EventsInGermany_1933.htm#Manifesto1933) - Prometeo  
 1933: [May Day 1933: Rebuilding the Heritage of Proletarian Struggle](https://www.international-communist-party.org/English/REPORTS/WARS/MayDay1933.htm) - Prometeo  
 1934: [Towards the New Sacred Union](https://www.international-communist-party.org/English/REPORTS/WARS/ProblemOfWar_1933.htm#Towards) - Prometeo  
-1935 [The “Fascist” (?) Adventure in Abyssinia](https://www.international-communist-party.org/English/REPORTS/WARS/FascistAbyssinia_1935.htm) - Prometeo  
+1935: [The “Fascist” (?) Adventure in Abyssinia](https://www.international-communist-party.org/English/REPORTS/WARS/FascistAbyssinia_1935.htm) - Prometeo  
 1936: [The “Popular Front” Triumphs in Spain](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_POPULAR_FRONT) - Bilan  
 1936: [Against the Imperialist Front for the Massacre of Spanish Workers](https://www.international-communist-party.org/English/Texts/SpainBil.htm#AGAINST) - Bilan  
 1936: [The Spanish Imperialist War & the Massacre of the Asturian Miners](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_SPANISH) - Bilan  
