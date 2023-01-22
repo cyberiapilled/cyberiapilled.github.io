@@ -127,7 +127,7 @@
 1969 - [The Only Struggle Against Fascism is the Struggle for Proletarian Revolution](https://www.international-communist-party.org/English/Document/69TheOnl.htm) - ICP  
 ### Split in the Party, 1973-1974:
 1974: [On the Same Road as Always](https://www.international-communist-party.org/English/Document/74SameRo.htm) - ICP  
-## The Collapse of the Eastern Bloc, 1989-1991:
+### The Collapse of the Eastern Bloc, 1989-1991:
 1991: [Communism is Dead. Long Live Communism!](https://www.international-communist-party.org/English/Texts/Russia/LongLive.htm) - ICP  
 ### The Great Recession, 2007-2009:
 ### Resumption of the Proletarian Movement, 2020-2023:
