@@ -88,7 +88,7 @@
 1937: [While the Popular Front Goons Massacre Proletarians](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm) - Prometeo  
 1937: [Machine-Gun Strafing, Shelling, Repression](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm#Machineguns) - Prometeo  
 1937: [Glimmers of Light](https://www.international-communist-party.org/English/REPORTS/WARS/GlimmersLight_1937.htm) - Prometeo  
-### End of the Spanish Civil War, WW2, Formation of the ICP, & the End of the Great Depression, 1939-1945:
+### WW2, Formation of the ICP, & the End of the Great Depression, 1939-1945:
 1943: [Workers, Peasants, Soldiers](https://www.international-communist-party.org/Comunism/Comuni81.htm#43OperaiContadiniSoldati) - ICP  
 1943: [The Italian Proletariat Must Not Allow Itself to Be Deceived Any Longer](https://www.international-communist-party.org/English/REPORTS/WARS/Italian_proletariat_1943.htm) - ICP  
 1943: [Turin Proletarians](https://www.international-communist-party.org/Comunism/Comuni81.htm#43ProletariTorinesi) - ICP  
