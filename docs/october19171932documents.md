@@ -139,6 +139,7 @@
 2022: [American Rail Workers!](https://www.international-communist-party.org/English/TheCPart/TCP_049.htm#1) - ICP  
 2022: [Ontario Education Workers Stand Up to Illegalization of Strike With Threat of General Strike](https://www.international-communist-party.org/English/TheCPart/TCP_049.htm#2) - ICP  
 
+1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky  
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
 1919: [The Bourgeois Restoration in Hungary](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-bourgeois-restoration-in-hungary/) - PSI  
 1919: [First Letter to the Third International](https://www.international-communist-party.org/English/Document/2Lett3CI.htm#I) - PSI  
@@ -148,6 +149,7 @@
 1920: [Strikes & Massacres in the Current Hour](https://libriincogniti.wordpress.com/2020/08/02/il-soviet-strikes-and-massacres-in-the-current-hour/) - PSI  
 1920: [The Strike in Turin](https://libriincogniti.wordpress.com/2020/08/02/il-soviet-the-strike-in-turin/) - PSI  
 1920: [The Situation in Germany & the Communist Movement](https://libriincogniti.wordpress.com/2020/08/20/il-soviet-the-situation-in-germany-and-the-communist-movement/) - PSI  
+1921: [Lessons of the Paris Commune](https://www.marxists.org/archive/trotsky/1921/02/commune.htm) - Trotsky  
 1922: [The Tactics of the Communist International](https://www.international-communist-party.org/CommLeft/CL44.htm#tacticscominternational) - PCd’I  
 1923: [Big Stick in Poplar](https://www.international-communist-party.org/CommLeft/CL03.htm#The_Big_Stick_In_Poplar) - Pankhurst  
 1923: [“Practical” Socialists](https://www.international-communist-party.org/CommLeft/CL04.htm#Practical_Socialists) - Morris  
