@@ -1,4 +1,4 @@
-# Documents of the Workers' Movement, Especially the International Communist Movement, 1914-2023
+# Documents of the International Communist Movement, 1914-1992
 ### WW1 & the Crisis in International Social Democracy, 1914-1916:
 1914: [The War & the International](https://www.marxists.org/archive/trotsky/1914/war/index.htm) - Trotsky  
 1915: [Resolutions on the Imperialist War](https://www.international-communist-party.org/BasicTexts/English/15LeniGE.htm) - Lenin  
