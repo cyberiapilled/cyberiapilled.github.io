@@ -66,7 +66,7 @@
 1928: [Notes of an Economist](https://cdn.discordapp.com/attachments/984866180714094592/1047728831777230858/notes_of_an_economist_bukharin.pdf) - Bukharin  
 1928: [The Crisis of the International](https://www.international-communist-party.org/English/Texts/28CrisisCI.htm) - Prometeo  
 1928: [Capitalism’s Mortal Crisis](https://www.international-communist-party.org/CommLeft/CL10_11.htm#MORTALCRISIS) - Prometeo  
-1929: [McDonald in power](https://www.international-communist-party.org/CommLeft/CL10_11.htm#McDONALD) - Prometeo  
+1929: [McDonald in Power](https://www.international-communist-party.org/CommLeft/CL10_11.htm#McDONALD) - Prometeo  
 1929: [How Stalin-Bukharin Destroyed the Chinese Revolution](https://revolutionsnewsstand.com/2022/12/06/how-stalin-bucharin-destroyed-the-chinese-revolution-an-appeal-to-all-the-comrades-of-the-chinese-communist-party-by-chen-duxiu-1929/) - Duxiu  
 1930: [Letter to the International Secretariat](https://www.international-communist-party.org/CommLeft/CL08.htm#Letter) - Prometeo  
 1931: [The Gilded Reaction](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm) - Prometeo  
