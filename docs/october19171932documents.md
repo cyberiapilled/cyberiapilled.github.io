@@ -52,6 +52,7 @@
 1924: [The Theory of Permanent Revolution](https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm) - Bukharin  
 1925: [The Road to Socialism & the Worker-Peasant Alliance](https://cdn.discordapp.com/attachments/984866180714094592/1047723265038229534/Bukharin_-_The_Road_to_Socialism_and_the_Worker-Peasant_Alliance_1925.pdf) - Bukharin  
 1925: [The Trotsky Question](https://www.marxists.org/archive/bordiga/works/1925/trotsky.htm) - PCd’I  
+## The Counter-Revolution in Russia & the International & Early Proletarian Resistance Against the Stalinist State, 1926-1932:
 ### Expulsion of the Left Opposition, the Shanghai Insurrection, & the English General Strike, 1926-1927:
 1926: [The Tasks of the Bolsheviks](https://www.marxists.org/archive/bukharin/works/1926/01/x01.htm) - Bukharin  
 1926: [Lyon Theses](https://www.international-communist-party.org/BasicTexts/English/LyonThes.htm) - PCd’I  
@@ -112,24 +113,9 @@
 1945: [The Party Platform](https://www.international-communist-party.org/BasicTexts/English/45Platfo.htm) - ICP  
 ### The Immediate Post-World War 2 Period, 1946-1950:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
-1947: [Situation of the American Workers](https://www.international-communist-party.org/English/TheCPart/TCP_040.htm#situ) - AFLCI  
-1950: [Appeal for the Movement’s International Reorganization](https://www.international-communist-party.org/BasicTexts/English/50Appeal.htm) - ICP  
-### Split in the Party, 1951-1952:
-### Destalinization, 1953-1961:
-1957: [Marxism & Russia](https://www.sinistra.net/lib/upt/compro/lipi/lipifbibie.html) - ICP  
-1961: [The Meaning of the Cuban Revolution in Light of Marxism](https://cdn.discordapp.com/attachments/705052371839090737/1056606957378748566/The_Meaning_of_the_Cuban_Revolution_in_Light_of_Marxism.pdf) - ICP  
-### Ghetto Riots in America, 1964-1969:
-1964: [Myths About American Democracy Crumble](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#2) - ICP  
-1965: [Blacks’ Wrath Had the Rotten Pillars of the Bourgeois & Democratic "Civilization" Crumbling](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#3) - ICP  
-1967: [Glory to the Rioting Black Proletarians](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4) - ICP  
-1967: [Need for Revolutionary Theory & the Marxist Party in America](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4.1) - ICP  
-1968: [The True Way of the Black Proletariat](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#5) - ICP  
-1969: [The Only Struggle Against Fascism is the Struggle for Proletarian Revolution](https://www.international-communist-party.org/English/Document/69TheOnl.htm) - ICP  
-### Split in the Party, 1973-1974:
-1974: [On the Same Road as Always](https://www.international-communist-party.org/English/Document/74SameRo.htm) - ICP  
-### The Collapse of the Eastern Bloc, 1989-1991:
-1991: [Communism is Dead. Long Live Communism!](https://www.international-communist-party.org/English/Texts/Russia/LongLive.htm) - ICP  
 
+1950: [Appeal for the Movement’s International Reorganization](https://www.international-communist-party.org/BasicTexts/English/50Appeal.htm) - ICP  
+1991: [Communism is Dead. Long Live Communism!](https://www.international-communist-party.org/English/Texts/Russia/LongLive.htm) - ICP  
 1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky  
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
 1919: [The Bourgeois Restoration in Hungary](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-bourgeois-restoration-in-hungary/) - PSI  
@@ -149,9 +135,4 @@
 1936: [Who Are the Heirs of Lenin, Luxemburg, Liebknecht?](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_3) - Bilan  
 1949: [The Liquidation of What Was Called the Greek Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/Liquidation_Greek_1949.htm) - ICP  
 1953: [Remembering the Warsaw Commune](https://www.international-communist-party.org/English/REPORTS/WARS/Warsaw_commune_1953.htm) - ICP  
-1954: [The Leading Civilization in “Segregation”](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#1) - ICP  
 1964: [How to Write History](https://www.international-communist-party.org/CommLeft/CL10_11.htm#HOW_TO_WRITE) - ICP  
-1970: [Short Notes on the Conditions of the Resurgence of the Proletarian Movement in the US](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#6) - ICP  
-1971: [The Black Panther Movement](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#7) - ICP  
-1980: [Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
-1992: [Los Angeles, Revolt of Despair in the Tragic Absence of the Organized Working Class](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#9) - ICP  
