@@ -111,8 +111,21 @@
 1944: [The German Proletariat & the Responsibilities of the War](https://www.international-communist-party.org/English/REPORTS/WARS/Network_Imperialism_1944.htm) - ICP  
 1945: [At Yalta, “Democratic” Imperialisms Reaffirm the Chains of Capitalist Slavery](https://www.international-communist-party.org/English/REPORTS/WARS/At_Yalta_1945.htm) - ICP  
 1945: [The Party Platform](https://www.international-communist-party.org/BasicTexts/English/45Platfo.htm) - ICP  
-### The Immediate Post-World War 2 Period, 1946-1950:
+### The First Thirteen Years After WW2, 1946-1953:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
+1949: [The Liquidation of What Was Called the Greek Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/Liquidation_Greek_1949.htm) - ICP  
+1953: [Remembering the Warsaw Commune](https://www.international-communist-party.org/English/REPORTS/WARS/Warsaw_commune_1953.htm) - ICP  
+### ICP Articles on US Racial Issues, 1954-1992:
+1954: [The Leading Civilization in “Segregation”](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#1) - ICP  
+1964: [Myths About American Democracy Crumble](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#2) - ICP  
+1965: [Blacks’ Wrath Had the Rotten Pillars of the Bourgeois and Democratic "Civilization" Crumbling](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#3) - ICP  
+1967: [Glory to the Rioting Black Proletarians](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4) - ICP  
+1967: [Need for Revolutionary Theory and the Marxist Party in America](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4.1) - ICP  
+1968: [The True Way of the Black Proletariat(https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#5) - ICP  
+1970: [Short Notes on the Conditions of the Resurgence of the Proletarian Movement in the US](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#6) - ICP  
+1971: The Black Panther Movement](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#7) - ICP  
+1980: Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
+1992: [Los Angeles, Revolt of Despair in the Tragic Absence of the Organized Working Class](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#9) - ICP
 
 1950: [Appeal for the Movement’s International Reorganization](https://www.international-communist-party.org/BasicTexts/English/50Appeal.htm) - ICP  
 1991: [Communism is Dead. Long Live Communism!](https://www.international-communist-party.org/English/Texts/Russia/LongLive.htm) - ICP  
@@ -133,6 +146,3 @@
 1934: [Anti-Fascism: Formula for Confusion](https://www.quinterna.org/lingue/english/historical_en/antifascism_confusion.htm) - Bilan  
 1936: [Lenin, Liebknecht & Luxemburg Belong to the World Proletariat](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_2) - Prometeo  
 1936: [Who Are the Heirs of Lenin, Luxemburg, Liebknecht?](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_3) - Bilan  
-1949: [The Liquidation of What Was Called the Greek Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/Liquidation_Greek_1949.htm) - ICP  
-1953: [Remembering the Warsaw Commune](https://www.international-communist-party.org/English/REPORTS/WARS/Warsaw_commune_1953.htm) - ICP  
-1964: [How to Write History](https://www.international-communist-party.org/CommLeft/CL10_11.htm#HOW_TO_WRITE) - ICP  
