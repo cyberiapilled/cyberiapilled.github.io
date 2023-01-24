@@ -114,6 +114,9 @@
 ### The First Thirteen Years After WW2, 1946-1953:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
 1949: [The Liquidation of What Was Called the Greek Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/Liquidation_Greek_1949.htm) - ICP  
+1952: [The New Deal](https://www.international-communist-party.org/English/REPORTS/CrisisTh/1952_NewDeal.htm) - ICP  
+1952: [The H-Bomb Versus the Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HBomb_1952.htm) - ICP  
+1953: [The Farce of Stalinist Insurrectionism Has Been Consummated](https://www.international-communist-party.org/English/REPORTS/WARS/Farce_1953.htm) - ICP  
 1953: [Remembering the Warsaw Commune](https://www.international-communist-party.org/English/REPORTS/WARS/Warsaw_commune_1953.htm) - ICP  
 ### ICP Articles on US Racial Issues, 1954-1992:
 1954: [The Leading Civilization in “Segregation”](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#1) - ICP  
