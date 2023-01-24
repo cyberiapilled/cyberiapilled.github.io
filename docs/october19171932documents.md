@@ -73,6 +73,7 @@
 1931: [The Gilded Reaction](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm) - Prometeo  
 1931: [War or Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm#WarOrRevolution) - Prometeo  
 1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin  
+## Preparation for WW2, 1933-1938:
 ### Second Five Year Plan, the Nazis Take Power in Germany, 1936 Constitution in the USSR, the Great Purge, & the Spanish Civil War, 1933-1938:
 1933: [The Problem of the War](https://www.international-communist-party.org/English/REPORTS/WARS/ProblemOfWar_1933.htm) - Prometeo  
 1933: [Revolutionary Communist Leaders](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_1) - Prometeo  
