@@ -14,14 +14,14 @@
 1919: [Bolshevism, a Plant of Every Climate](https://libriincogniti.wordpress.com/2020/07/29/il-soviet-bolshevism-a-plant-of-every-climate/) - PSI  
 1919: [First Congress of the Communist International](https://www.marxists.org/history/international/comintern/1st-congress/index.htm)  
 1919: [Socialism & Anarchy](https://www.international-communist-party.org/CommLeft/CL05.htm#Socialism_and_Anarchy) - PCd’I  
-1919: [Eighth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1919/rcp8th/index.htm) - Lenin  
+*1919: [Eighth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1919/rcp8th/index.htm) - Lenin*  
 1919: [First All-Russia Congress on Adult Education](https://www.marxists.org/archive/lenin/works/1919/may/06.htm) - Lenin  
-1919: [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) - PSI  
-1919: [Is This the Time to Form “Soviets”?](https://www.marxists.org/archive/bordiga/works/1919/soviets.htm) - PSI  
+*1919: [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) - PSI*  
+*1919: [Is This the Time to Form “Soviets”?](https://www.marxists.org/archive/bordiga/works/1919/soviets.htm) - PSI*  
 1919: [Interview With Sylvia Pankhurst on the Situation in England](https://www.international-communist-party.org/CommLeft/CL06.htm#Communistthought) - PCd’I  
-1919: [Economics & Politics in the Era of the Dictatorship of the Proletariat](https://www.marxists.org/archive/lenin/works/1919/oct/30.htm) - Lenin  
-1920: [Towards the Establishment of Workers’ Councils in Italy](https://www.marxists.org/archive/bordiga/works/1920/workers-councils.htm) - PSI  
-1920: [Seize Power or Seize the Factory?](https://www.marxists.org/archive/bordiga/works/1920/seize-power.htm) - PSI  
+*1919: [Economics & Politics in the Era of the Dictatorship of the Proletariat](https://www.marxists.org/archive/lenin/works/1919/oct/30.htm) - Lenin*  
+*1920: [Towards the Establishment of Workers’ Councils in Italy](https://www.marxists.org/archive/bordiga/works/1920/workers-councils.htm) - PSI*  
+*1920: [Seize Power or Seize the Factory?](https://www.marxists.org/archive/bordiga/works/1920/seize-power.htm) - PSI*  
 1920: [Speech at the Third All-Russia Conference of Directors of Adult Education](https://www.marxists.org/archive/lenin/works/1920/feb/25.htm) - Lenin  
 1920: [Socialists & Anarchists](https://www.international-communist-party.org/CommLeft/CL05.htm#Socialists_and_Anarchists) - PCd’I  
 1920: [Theses of the Abstentionist Communist Fraction](https://www.international-communist-party.org/BasicTexts/English/20ThFrac.htm) - PSI  
@@ -31,40 +31,40 @@
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
 ### The NEP, Economic Restoration, the End of the Civil War, the Formation of the USSR, the Death of Lenin, Socialism in One Country, the Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1921-1925:
 1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin  
-1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin  
-1922: [The Economic Structure of Soviet Russia](https://www.marxists.org/archive/bukharin/works/1922/03/econstruct.html) - Bukharin  
-1922: [Eleventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1922/mar/27.htm) - Lenin  
+*1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin*  
+*1922: [The Economic Structure of Soviet Russia](https://www.marxists.org/archive/bukharin/works/1922/03/econstruct.html) - Bukharin*  
+*1922: [Eleventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1922/mar/27.htm) - Lenin*  
 1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
 1922: [Report on Fascism](https://www.international-communist-party.org/BasicTexts/English/22Fascis.htm) - PCd’I  
-1922: [Last Testament](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm) - Lenin  
+*1922: [Last Testament](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm) - Lenin*  
 1923: [On Education](https://www.marxists.org/archive/lenin/works/1923/jan/02.htm) - Lenin  
-1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin  
+*1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin*  
 1923: [Our Revolution](https://www.marxists.org/archive/lenin/works/1923/jan/16.htm) - Lenin  
 1923: [How We Should Reorganize the Workers’ & Peasants’ Inspection](https://www.marxists.org/archive/lenin/works/1923/jan/23.htm) - Lenin  
 1923: [Better Fewer, but Better](https://www.marxists.org/archive/lenin/works/1923/mar/02.htm) - Lenin  
-1923: [The New Course](https://www.marxists.org/archive/trotsky/1923/newcourse/index.htm) - Trotsky  
+*1923: [The New Course](https://www.marxists.org/archive/trotsky/1923/newcourse/index.htm) - Trotsky*  
 1923: [Observations in Germany](https://www.marxists.org/archive/serge/1923/xx/observations.html) - Serge  
 1923: [Twelfth Congress of the Bolsheviks](https://www.marxists.org/archive/bukharin/works/1923/ci/12_congress.htm) - Bukharin  
 1924: [Constitution of the USSR](https://soviethistory.msu.edu/1924-2/union-treaty/union-treaty-texts/first-union-constitution/)  
 1924: [Lenin on the Path of the Revolution](https://quinterna.org/archivio/1924_1926/lenincamminoriv1.htm) - PCd’I  
 1924: [Report on Fascism](https://www.international-communist-party.org/BasicTexts/English/24Fascis.htm) - PCd’I  
 1924: [The Lessons of October](https://www.marxists.org/archive/trotsky/1924/lessons/index.htm) - Trotsky  
-1924: [The Theory of Permanent Revolution](https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm) - Bukharin  
-1925: [The Road to Socialism & the Worker-Peasant Alliance](https://cdn.discordapp.com/attachments/984866180714094592/1047723265038229534/Bukharin_-_The_Road_to_Socialism_and_the_Worker-Peasant_Alliance_1925.pdf) - Bukharin  
+*1924: [The Theory of Permanent Revolution](https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm) - Bukharin*  
+*1925: [The Road to Socialism & the Worker-Peasant Alliance](https://cdn.discordapp.com/attachments/984866180714094592/1047723265038229534/Bukharin_-_The_Road_to_Socialism_and_the_Worker-Peasant_Alliance_1925.pdf) - Bukharin*  
 1925: [The Trotsky Question](https://www.marxists.org/archive/bordiga/works/1925/trotsky.htm) - PCd’I  
 ## The Counter-Revolution in Russia & the International & Early Proletarian Resistance Against the Stalinist State, 1926-1932:
 ### Expulsion of the Left Opposition, the Shanghai Insurrection, & the English General Strike, 1926-1927:
-1926: [The Tasks of the Bolsheviks](https://www.marxists.org/archive/bukharin/works/1926/01/x01.htm) - Bukharin  
-1926: [Lyon Theses](https://www.international-communist-party.org/BasicTexts/English/LyonThes.htm) - PCd’I  
+*1926: [The Tasks of the Bolsheviks](https://www.marxists.org/archive/bukharin/works/1926/01/x01.htm) - Bukharin*  
+*1926: [Lyon Theses](https://www.international-communist-party.org/BasicTexts/English/LyonThes.htm) - PCd’I*  
 1926: [Meeting of the Italian Delegation With Stalin](https://libriincogniti.wordpress.com/2020/04/04/6th-ecci-meeting-of-the-italian-delegation-with-stalin-22-february-1926/) - PCd’I  
 1926: [Position of the Left at the 6th Enlarged Executive](https://www.international-communist-party.org/BasicTexts/English/26EnlCCI.htm) - PCd’I  
 1926: [Correspondence Between Bordiga & Trotsky](https://libcom.org/article/correspondence-between-bordiga-and-trotsky)  
 1926: [Letter to Korsch](https://www.international-communist-party.org/CommLeft/CL09.htm#LEFT_ARCHIVES) - Bordiga  
-1927: [Platform of the Joint Opposition](https://www.marxists.org/archive/trotsky/1927/opposition/index.htm) - Trotsky  
+*1927: [Platform of the Joint Opposition](https://www.marxists.org/archive/trotsky/1927/opposition/index.htm) - Trotsky*  
 1927: [The Class Struggle in the Chinese Revolution](https://www.marxists.org/archive/serge/1927/china/index.html) - Serge  
 1927: [The World Revolution & the USSR](https://www.marxists.org/archive/bukharin/works/1927/worldrev.htm) - Bukharin  
 ### Expulsion of the Right Opposition, the First Five Year Plan, & the Beginning of the Great Depression, 1928-1932:
-1928: [Notes of an Economist](https://cdn.discordapp.com/attachments/984866180714094592/1047728831777230858/notes_of_an_economist_bukharin.pdf) - Bukharin  
+*1928: [Notes of an Economist](https://cdn.discordapp.com/attachments/984866180714094592/1047728831777230858/notes_of_an_economist_bukharin.pdf) - Bukharin*  
 1928: [The Crisis of the International](https://www.international-communist-party.org/English/Texts/28CrisisCI.htm) - Prometeo  
 1928: [Capitalism’s Mortal Crisis](https://www.international-communist-party.org/CommLeft/CL10_11.htm#MORTALCRISIS) - Prometeo  
 1929: [McDonald in Power](https://www.international-communist-party.org/CommLeft/CL10_11.htm#McDONALD) - Prometeo  
