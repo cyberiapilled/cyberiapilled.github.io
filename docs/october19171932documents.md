@@ -89,7 +89,9 @@
 1937: [While the Popular Front Goons Massacre Proletarians](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm) - Prometeo  
 1937: [Machine-Gun Strafing, Shelling, Repression](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm#Machineguns) - Prometeo  
 1937: [Glimmers of Light](https://www.international-communist-party.org/English/REPORTS/WARS/GlimmersLight_1937.htm) - Prometeo  
-### WW2, Formation of the ICP, & the End of the Great Depression, 1939-1945:
+## WW2, 1939-1945:
+### XYZ, 1939-1942:
+### Proletarian Unrest in Italy, 1943-1944:
 1943: [Workers, Peasants, Soldiers](https://www.international-communist-party.org/Comunism/Comuni81.htm#43OperaiContadiniSoldati) - ICP  
 1943: [The Italian Proletariat Must Not Allow Itself to Be Deceived Any Longer](https://www.international-communist-party.org/English/REPORTS/WARS/Italian_proletariat_1943.htm) - ICP  
 1943: [Turin Proletarians](https://www.international-communist-party.org/Comunism/Comuni81.htm#43ProletariTorinesi) - ICP  
@@ -109,6 +111,7 @@
 1944: [Garbage Dump](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#IMMONDEZZAIO) - ICP  
 1944: [Long Live the Warsaw Commune!](https://www.international-communist-party.org/English/REPORTS/WARS/LongLiveWarsawCommune_1944.htm) - ICP  
 1944: [The German Proletariat & the Responsibilities of the War](https://www.international-communist-party.org/English/REPORTS/WARS/Network_Imperialism_1944.htm) - ICP  
+### Final Year of WW2, 1945:
 1945: [At Yalta, “Democratic” Imperialisms Reaffirm the Chains of Capitalist Slavery](https://www.international-communist-party.org/English/REPORTS/WARS/At_Yalta_1945.htm) - ICP  
 1945: [The Party Platform](https://www.international-communist-party.org/BasicTexts/English/45Platfo.htm) - ICP  
 ### The First Thirteen Years After WW2, 1946-1953:
