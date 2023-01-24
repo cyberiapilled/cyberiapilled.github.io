@@ -134,7 +134,7 @@
 1980: [Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
 1992: [Los Angeles, Revolt of Despair in the Tragic Absence of the Organized Working Class](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#9) - ICP
 
-1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky  
+*1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky*  
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
 1919: [The Bourgeois Restoration in Hungary](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-bourgeois-restoration-in-hungary/) - PSI  
 1919: [First Letter to the Third International](https://www.international-communist-party.org/English/Document/2Lett3CI.htm#I) - PSI  
@@ -145,6 +145,9 @@
 1920: [The Strike in Turin](https://libriincogniti.wordpress.com/2020/08/02/il-soviet-the-strike-in-turin/) - PSI  
 1920: [The Situation in Germany & the Communist Movement](https://libriincogniti.wordpress.com/2020/08/20/il-soviet-the-situation-in-germany-and-the-communist-movement/) - PSI  
 1921: [Lessons of the Paris Commune](https://www.marxists.org/archive/trotsky/1921/02/commune.htm) - Trotsky  
+*1921: [The Party Programme](https://www.international-communist-party.org/BasicTexts/English/21PartyP.htm) - PCd’I*  
+*1921: [Party & Class](https://www.international-communist-party.org/BasicTexts/English/21PartyC.htm) - PCd’I*  
+*1921: [Party & Class Action](https://www.international-communist-party.org/BasicTexts/English/21PartyC.htm#PartyAndClassAction) - PCd’I*  
 1922: [The Tactics of the Communist International](https://www.international-communist-party.org/CommLeft/CL44.htm#tacticscominternational) - PCd’I  
 1923: [Big Stick in Poplar](https://www.international-communist-party.org/CommLeft/CL03.htm#The_Big_Stick_In_Poplar) - Pankhurst  
 1923: [“Practical” Socialists](https://www.international-communist-party.org/CommLeft/CL04.htm#Practical_Socialists) - Morris  
