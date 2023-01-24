@@ -138,6 +138,7 @@
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
 1919: [The Bourgeois Restoration in Hungary](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-bourgeois-restoration-in-hungary/) - PSI  
 1919: [First Letter to the Third International](https://www.international-communist-party.org/English/Document/2Lett3CI.htm#I) - PSI  
+*1919 [A Great Beginning](https://www.marxists.org/archive/lenin/works/1919/jun/28.htm) - Lenin*  
 1920: [Second Letter to the Third International](https://www.international-communist-party.org/English/Document/2Lett3CI.htm#II) - PSI  
 1920: [The German Communist Party](https://libriincogniti.wordpress.com/2020/08/21/il-soviet-the-german-communist-party/) - PSI  
 1920: [Theses on the Constitution of Workers’ Councils](https://libriincogniti.wordpress.com/2020/07/30/il-soviet-theses-on-the-constitution-of-the-workers-councils-proposed-by-the-cc-of-the-communist-abstentionist-fraction-of-the-psi/) - PSI  
