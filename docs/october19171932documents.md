@@ -156,6 +156,7 @@ Communist International](https://www.marxists.org/history/international/cominter
 1922: [The Tactics of the Communist International](https://www.international-communist-party.org/CommLeft/CL44.htm#tacticscominternational) - PCd’I  
 1923: [Big Stick in Poplar](https://www.international-communist-party.org/CommLeft/CL03.htm#The_Big_Stick_In_Poplar) - Pankhurst  
 1923: [“Practical” Socialists](https://www.international-communist-party.org/CommLeft/CL04.htm#Practical_Socialists) - Morris  
+*1928: [The Third International After Lenin](https://www.marxists.org/archive/trotsky/1928/3rd/index.htm) - Trotsky*  
 1934: [Anti-Fascism: Formula for Confusion](https://www.quinterna.org/lingue/english/historical_en/antifascism_confusion.htm) - Bilan  
 1936: [Lenin, Liebknecht & Luxemburg Belong to the World Proletariat](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_2) - Prometeo  
 1936: [Who Are the Heirs of Lenin, Luxemburg, Liebknecht?](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_3) - Bilan  
