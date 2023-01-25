@@ -30,7 +30,7 @@
 *1920: [The Manifesto/Platform of the Party Left](https://www.international-communist-party.org/BasicTexts/English/20MaLeft.htm) - PSI*  
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
 ### The NEP, Economic Restoration, the End of the Civil War, the Formation of the USSR, the Death of Lenin, Socialism in One Country, the Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1921-1925:
-1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin  
+*1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin*  
 *1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin*  
 *1922: [The Economic Structure of Soviet Russia](https://www.marxists.org/archive/bukharin/works/1922/03/econstruct.html) - Bukharin*  
 *1922: [Eleventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1922/mar/27.htm) - Lenin*  
@@ -41,7 +41,7 @@
 *1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin*  
 1923: [Our Revolution](https://www.marxists.org/archive/lenin/works/1923/jan/16.htm) - Lenin  
 1923: [How We Should Reorganize the Workers’ & Peasants’ Inspection](https://www.marxists.org/archive/lenin/works/1923/jan/23.htm) - Lenin  
-1923: [Better Fewer, but Better](https://www.marxists.org/archive/lenin/works/1923/mar/02.htm) - Lenin  
+*1923: [Better Fewer, but Better](https://www.marxists.org/archive/lenin/works/1923/mar/02.htm) - Lenin*  
 *1923: [The New Course](https://www.marxists.org/archive/trotsky/1923/newcourse/index.htm) - Trotsky*  
 1923: [Observations in Germany](https://www.marxists.org/archive/serge/1923/xx/observations.html) - Serge  
 1923: [Twelfth Congress of the Bolsheviks](https://www.marxists.org/archive/bukharin/works/1923/ci/12_congress.htm) - Bukharin  
@@ -72,7 +72,7 @@
 1930: [Letter to the International Secretariat](https://www.international-communist-party.org/CommLeft/CL08.htm#Letter) - Prometeo  
 1931: [The Gilded Reaction](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm) - Prometeo  
 1931: [War or Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm#WarOrRevolution) - Prometeo  
-1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin  
+*1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin*  
 ## Preparation for WW2, 1933-1938:
 ### Second Five Year Plan, the Nazis Take Power in Germany, 1936 Constitution in the USSR, the Great Purge, & the Spanish Civil War, 1933-1938:
 1933: [The Problem of the War](https://www.international-communist-party.org/English/REPORTS/WARS/ProblemOfWar_1933.htm) - Prometeo  
