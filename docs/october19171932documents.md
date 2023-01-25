@@ -7,12 +7,12 @@
 ### October Insurrection, the Beginning of the World Revolution, the Russian Civil War, War Communism, & the Formation of the Communist International, 1917-1920:
 1917: [April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) - Lenin  
 1918: [Extraordinary Seventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1918/7thcong/index.htm) - Lenin  
-1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)  
+*1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)*  
 1918: [What Does the Spartacus League Want?](https://www.marxists.org/archive/luxemburg/1918/12/14.htm) - Luxemburg  
 1918: [On the Spartacus Programme](https://www.marxists.org/archive/luxemburg/1918/12/30.htm) - Luxemburg  
 1919: [In the Red Light of Sacrifice](https://www.marxists.org/archive/bordiga/works/1919/01/redlight-ll.html) - PSI  
 1919: [Bolshevism, a Plant of Every Climate](https://libriincogniti.wordpress.com/2020/07/29/il-soviet-bolshevism-a-plant-of-every-climate/) - PSI  
-1919: [First Congress of the Communist International](https://www.marxists.org/history/international/comintern/1st-congress/index.htm)  
+*1919: [First Congress of the Communist International](https://www.marxists.org/history/international/comintern/1st-congress/index.htm)*  
 1919: [Socialism & Anarchy](https://www.international-communist-party.org/CommLeft/CL05.htm#Socialism_and_Anarchy) - PCd’I  
 *1919: [Eighth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1919/rcp8th/index.htm) - Lenin*  
 1919: [First All-Russia Congress on Adult Education](https://www.marxists.org/archive/lenin/works/1919/may/06.htm) - Lenin  
@@ -26,7 +26,7 @@
 1920: [Socialists & Anarchists](https://www.international-communist-party.org/CommLeft/CL05.htm#Socialists_and_Anarchists) - PCd’I  
 *1920: [Theses of the Abstentionist Communist Fraction](https://www.international-communist-party.org/BasicTexts/English/20ThFrac.htm) - PSI*  
 1920: [Bolshevism Defamed by the Anarchists](https://www.international-communist-party.org/CommLeft/CL05.htm#Bolshevism) - PCd’I  
-1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)  
+*1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)*  
 *1920: [The Manifesto/Platform of the Party Left](https://www.international-communist-party.org/BasicTexts/English/20MaLeft.htm) - PSI*  
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
 ### The NEP, Economic Restoration, the End of the Civil War, the Formation of the USSR, the Death of Lenin, Socialism in One Country, the Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1921-1925:
@@ -149,6 +149,10 @@
 *1921: [The Party Programme](https://www.international-communist-party.org/BasicTexts/English/21PartyP.htm) - PCd’I*  
 *1921: [Party & Class](https://www.international-communist-party.org/BasicTexts/English/21PartyC.htm) - PCd’I*  
 *1921: [Party & Class Action](https://www.international-communist-party.org/BasicTexts/English/21PartyC.htm#PartyAndClassAction) - PCd’I*  
+*1921: [Third Congress of the
+Communist International](https://www.marxists.org/history/international/comintern/3rd-congress/index.htm)*  
+*1922: [Fourth Congress of the
+Communist International](https://www.marxists.org/history/international/comintern/4th-congress/index.htm)*  
 1922: [The Tactics of the Communist International](https://www.international-communist-party.org/CommLeft/CL44.htm#tacticscominternational) - PCd’I  
 1923: [Big Stick in Poplar](https://www.international-communist-party.org/CommLeft/CL03.htm#The_Big_Stick_In_Poplar) - Pankhurst  
 1923: [“Practical” Socialists](https://www.international-communist-party.org/CommLeft/CL04.htm#Practical_Socialists) - Morris  
