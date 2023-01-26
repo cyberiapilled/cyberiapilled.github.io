@@ -93,7 +93,7 @@
 1952: [The H-Bomb Versus the Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HBomb_1952.htm) - ICP  
 1953: [The Farce of Stalinist Insurrectionism Has Been Consummated](https://www.international-communist-party.org/English/REPORTS/WARS/Farce_1953.htm) - ICP  
 1953: [Remembering the Warsaw Commune](https://www.international-communist-party.org/English/REPORTS/WARS/Warsaw_commune_1953.htm) - ICP  
-## [ICP Articles on US Racial Issues, 1954-1992:](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm)
+## [ICP Articles on US Racial Issues, 1954-1992](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm)
 
 *1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky*  
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
