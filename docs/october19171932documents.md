@@ -109,8 +109,6 @@
 1920: [The Situation in Germany & the Communist Movement](https://libriincogniti.wordpress.com/2020/08/20/il-soviet-the-situation-in-germany-and-the-communist-movement/) - PSI  
 1921: [Lessons of the Paris Commune](https://www.marxists.org/archive/trotsky/1921/02/commune.htm) - Trotsky  
 *1921: [The Party Programme](https://www.international-communist-party.org/BasicTexts/English/21PartyP.htm) - PCd’I*  
-*1921: [Party & Class](https://www.international-communist-party.org/BasicTexts/English/21PartyC.htm) - PCd’I*  
-*1921: [Party & Class Action](https://www.international-communist-party.org/BasicTexts/English/21PartyC.htm#PartyAndClassAction) - PCd’I*  
 *1921: [Third Congress of the
 Communist International](https://www.marxists.org/history/international/comintern/3rd-congress/index.htm)*  
 *1922: [Fourth Congress of the
