@@ -88,6 +88,7 @@
 ## [WW2, 1939-1945](https://cyberiapilled.github.io/texts/collections/ww2)
 ## The First Thirteen Years After WW2, 1946-1953:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
+1948: [The Party Programme](https://www.international-communist-party.org/BasicTexts/English/48PartyP.htm) - ICP  
 1949: [The Liquidation of What Was Called the Greek Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/Liquidation_Greek_1949.htm) - ICP  
 1952: [The New Deal](https://www.international-communist-party.org/English/REPORTS/CrisisTh/1952_NewDeal.htm) - ICP  
 1952: [The H-Bomb Versus the Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HBomb_1952.htm) - ICP  
@@ -119,8 +120,5 @@ Communist International](https://www.marxists.org/history/international/cominter
 1923: [“Practical” Socialists](https://www.international-communist-party.org/CommLeft/CL04.htm#Practical_Socialists) - Morris  
 *1928: [The Third International After Lenin](https://www.marxists.org/archive/trotsky/1928/3rd/index.htm) - Trotsky*  
 1934: [Anti-Fascism: Formula for Confusion](https://www.quinterna.org/lingue/english/historical_en/antifascism_confusion.htm) - Bilan  
-1936: [Lenin, Liebknecht & Luxemburg Belong to the World Proletariat](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_2) - Prometeo  
-1936: [Who Are the Heirs of Lenin, Luxemburg, Liebknecht?](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_3) - Bilan  
-1948: [The Party Programme](https://www.international-communist-party.org/BasicTexts/English/48PartyP.htm) - ICP  
 1919: [Ten Days That Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/) - Reed  
 1921: [Notes of a Red Guard](https://files.libcom.org/files/notes_of_a_red_guard.pdf) - Dune  
