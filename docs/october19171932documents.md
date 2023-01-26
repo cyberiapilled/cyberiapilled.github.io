@@ -35,7 +35,6 @@
 *1922: [The Economic Structure of Soviet Russia](https://www.marxists.org/archive/bukharin/works/1922/03/econstruct.html) - Bukharin*  
 *1922: [Eleventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1922/mar/27.htm) - Lenin*  
 1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
-1922: [Report on Fascism](https://www.international-communist-party.org/BasicTexts/English/22Fascis.htm) - PCd’I  
 *1922: [Last Testament](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm) - Lenin*  
 1923: [On Education](https://www.marxists.org/archive/lenin/works/1923/jan/02.htm) - Lenin  
 *1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin*  
@@ -48,30 +47,33 @@
 1924: [Constitution of the USSR](https://soviethistory.msu.edu/1924-2/union-treaty/union-treaty-texts/first-union-constitution/)  
 1924: [Lenin on the Path of the Revolution](https://quinterna.org/archivio/1924_1926/lenincamminoriv1.htm) - PCd’I  
 1924: [Report on Fascism](https://www.international-communist-party.org/BasicTexts/English/24Fascis.htm) - PCd’I  
-1924: [The Lessons of October](https://www.marxists.org/archive/trotsky/1924/lessons/index.htm) - Trotsky  
+*1924: [The Lessons of October](https://www.marxists.org/archive/trotsky/1924/lessons/index.htm) - Trotsky*  
 *1924: [The Theory of Permanent Revolution](https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm) - Bukharin*  
 *1925: [The Road to Socialism & the Worker-Peasant Alliance](https://cdn.discordapp.com/attachments/984866180714094592/1047723265038229534/Bukharin_-_The_Road_to_Socialism_and_the_Worker-Peasant_Alliance_1925.pdf) - Bukharin*  
 1925: [The Trotsky Question](https://www.marxists.org/archive/bordiga/works/1925/trotsky.htm) - PCd’I  
-## The Counter-Revolution in Russia & the International & Early Proletarian Resistance Against the Stalinist State, 1926-1932:
+## The Counter-Revolution in Russia & the International, 1926-1929:
 ### Expulsion of the Left Opposition, the Shanghai Insurrection, & the English General Strike, 1926-1927:
 *1926: [The Tasks of the Bolsheviks](https://www.marxists.org/archive/bukharin/works/1926/01/x01.htm) - Bukharin*  
 *1926: [Lyon Theses](https://www.international-communist-party.org/BasicTexts/English/LyonThes.htm) - PCd’I*  
 1926: [Meeting of the Italian Delegation With Stalin](https://libriincogniti.wordpress.com/2020/04/04/6th-ecci-meeting-of-the-italian-delegation-with-stalin-22-february-1926/) - PCd’I  
-1926: [Position of the Left at the 6th Enlarged Executive](https://www.international-communist-party.org/BasicTexts/English/26EnlCCI.htm) - PCd’I  
+*1926: [Position of the Left at the 6th Enlarged Executive](https://www.international-communist-party.org/BasicTexts/English/26EnlCCI.htm) - PCd’I*  
 1926: [Correspondence Between Bordiga & Trotsky](https://libcom.org/article/correspondence-between-bordiga-and-trotsky)  
 1926: [Letter to Korsch](https://www.international-communist-party.org/CommLeft/CL09.htm#LEFT_ARCHIVES) - Bordiga  
 *1927: [Platform of the Joint Opposition](https://www.marxists.org/archive/trotsky/1927/opposition/index.htm) - Trotsky*  
 1927: [The Class Struggle in the Chinese Revolution](https://www.marxists.org/archive/serge/1927/china/index.html) - Serge  
 1927: [The World Revolution & the USSR](https://www.marxists.org/archive/bukharin/works/1927/worldrev.htm) - Bukharin  
-### Expulsion of the Right Opposition, the First Five Year Plan, & the Beginning of the Great Depression, 1928-1932:
+### Expulsion of the Right Opposition, the First Five Year Plan, & the Beginning of the Great Depression, 1928-1929:
 *1928: [Notes of an Economist](https://cdn.discordapp.com/attachments/984866180714094592/1047728831777230858/notes_of_an_economist_bukharin.pdf) - Bukharin*  
 1928: [The Crisis of the International](https://www.international-communist-party.org/English/Texts/28CrisisCI.htm) - Prometeo  
 1928: [Capitalism’s Mortal Crisis](https://www.international-communist-party.org/CommLeft/CL10_11.htm#MORTALCRISIS) - Prometeo  
 1929: [McDonald in Power](https://www.international-communist-party.org/CommLeft/CL10_11.htm#McDONALD) - Prometeo  
 1929: [How Stalin-Bukharin Destroyed the Chinese Revolution](https://revolutionsnewsstand.com/2022/12/06/how-stalin-bucharin-destroyed-the-chinese-revolution-an-appeal-to-all-the-comrades-of-the-chinese-communist-party-by-chen-duxiu-1929/) - Duxiu  
+## Early Proletarian Resistance Against the Stalinist State, 1930-1932:
+### XYZ, 1930-1931:
 1930: [Letter to the International Secretariat](https://www.international-communist-party.org/CommLeft/CL08.htm#Letter) - Prometeo  
 1931: [The Gilded Reaction](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm) - Prometeo  
 1931: [War or Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm#WarOrRevolution) - Prometeo  
+### The Ryutin Affair & the Bloc Against Stalin, 1932:
 *1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin*  
 ## Preparation for WW2, 1933-1938:
 ### Second Five Year Plan, the Nazis Take Power in Germany, 1936 Constitution in the USSR, the Great Purge, & the Spanish Civil War, 1933-1938:
@@ -82,57 +84,16 @@
 1933: [May Day 1933: Rebuilding the Heritage of Proletarian Struggle](https://www.international-communist-party.org/English/REPORTS/WARS/MayDay1933.htm) - Prometeo  
 1934: [Towards the New Sacred Union](https://www.international-communist-party.org/English/REPORTS/WARS/ProblemOfWar_1933.htm#Towards) - Prometeo  
 1935: [The “Fascist” (?) Adventure in Abyssinia](https://www.international-communist-party.org/English/REPORTS/WARS/FascistAbyssinia_1935.htm) - Prometeo  
-1936: [The “Popular Front” Triumphs in Spain](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_POPULAR_FRONT) - Bilan  
-1936: [Against the Imperialist Front for the Massacre of Spanish Workers](https://www.international-communist-party.org/English/Texts/SpainBil.htm#AGAINST) - Bilan  
-1936: [The Spanish Imperialist War & the Massacre of the Asturian Miners](https://www.international-communist-party.org/English/Texts/SpainBil.htm#THE_SPANISH) - Bilan  
-1936: [The Real Meaning of the Non‑Intervention Committee](https://www.international-communist-party.org/English/REPORTS/WARS/NonIntervention_1936.htm#RealMeaning) - Bilan  
-1936: [The Only Class Weapon](https://www.international-communist-party.org/English/REPORTS/WARS/NonIntervention_1936.htm#OnlyClass) - Bilan  
-1937: [While the Popular Front Goons Massacre Proletarians](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm) - Prometeo  
-1937: [Machine-Gun Strafing, Shelling, Repression](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm#Machineguns) - Prometeo  
-1937: [Glimmers of Light](https://www.international-communist-party.org/English/REPORTS/WARS/GlimmersLight_1937.htm) - Prometeo  
-## WW2, 1939-1945:
-### XYZ, 1939-1942:
-### Proletarian Unrest in Italy, 1943-1944:
-1943: [Workers, Peasants, Soldiers](https://www.international-communist-party.org/Comunism/Comuni81.htm#43OperaiContadiniSoldati) - ICP  
-1943: [The Italian Proletariat Must Not Allow Itself to Be Deceived Any Longer](https://www.international-communist-party.org/English/REPORTS/WARS/Italian_proletariat_1943.htm) - ICP  
-1943: [Turin Proletarians](https://www.international-communist-party.org/Comunism/Comuni81.htm#43ProletariTorinesi) - ICP  
-1943: [Milanese Workers](https://www.international-communist-party.org/Comunism/Comuni81.htm#43OperaiMilanesi) - ICP  
-1943: [To the Imperialist War the Proletariat Opposes the Firm Will to Achieve Its Historical Programme](https://www.international-communist-party.org/English/REPORTS/WARS/ToTheImperialistWar_1943.htm) - ICP  
-1943: [Appeal for the Creation of a United Proletarian Front Against the War](https://www.international-communist-party.org/English/REPORTS/WARS/AppealUnitedFront_1943.htm) - ICP  
-1944: [Appeal to the Partisans](https://www.international-communist-party.org/English/REPORTS/WARS/Appeal_Partisans.htm) - ICP  
-1944: [Manifesto](https://www.international-communist-party.org/English/REPORTS/WARS/Manifesto_2WW.htm) - ICP  
-1944: [For a New International](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#PER_UNA_NUOVA_INTERNAZIONALE) - ICP  
-1944: [Proletarians! Desert The National Liberation Committee](https://www.international-communist-party.org/English/REPORTS/WARS/Desert_NLC_1944.htm) - ICP  
-1944: [Revolutionary General Strike or Political Adventure in the Service of Capitalism?](https://www.international-communist-party.org/English/REPORTS/WARS/RevolutionaryGeneralStrike_1944.htm) - ICP  
-1944: [Ercoli Supports the Monarchy](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#ERCOLI_APPOGGIA_LA_MONARCHIA) - ICP  
-1944: [On the Margin of the Strikes](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#IN_MARGINE_AGLI_SCIOPERI) - ICP  
-1944: [Workers! The Communist Left Speaks to You](https://www.international-communist-party.org/English/REPORTS/WARS/Workers_1944.htm) - ICP  
-1944: [Manifesto of the Communist Left to the Proletarians of Europe](https://www.international-communist-party.org/English/Texts/Manif44E.htm) - ICP  
-1944: [Long Live the Proletarian Revolution!](https://www.international-communist-party.org/English/REPORTS/WARS/Long_Live_1944.htm) - ICP  
-1944: [Garbage Dump](https://www.international-communist-party.org/Comunism/Comu40Ap.htm#IMMONDEZZAIO) - ICP  
-1944: [Long Live the Warsaw Commune!](https://www.international-communist-party.org/English/REPORTS/WARS/LongLiveWarsawCommune_1944.htm) - ICP  
-1944: [The German Proletariat & the Responsibilities of the War](https://www.international-communist-party.org/English/REPORTS/WARS/Network_Imperialism_1944.htm) - ICP  
-### Final Year of WW2, 1945:
-1945: [At Yalta, “Democratic” Imperialisms Reaffirm the Chains of Capitalist Slavery](https://www.international-communist-party.org/English/REPORTS/WARS/At_Yalta_1945.htm) - ICP  
-1945: [The Party Platform](https://www.international-communist-party.org/BasicTexts/English/45Platfo.htm) - ICP  
-### The First Thirteen Years After WW2, 1946-1953:
+### [The Spanish Civil War, 1936-1938](https://cyberiapilled.github.io/texts/collections/spanishcivilwar)
+## [WW2, 1939-1945](https://cyberiapilled.github.io/texts/collections/ww2)
+## The First Thirteen Years After WW2, 1946-1953:
 1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
 1949: [The Liquidation of What Was Called the Greek Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/Liquidation_Greek_1949.htm) - ICP  
 1952: [The New Deal](https://www.international-communist-party.org/English/REPORTS/CrisisTh/1952_NewDeal.htm) - ICP  
 1952: [The H-Bomb Versus the Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HBomb_1952.htm) - ICP  
 1953: [The Farce of Stalinist Insurrectionism Has Been Consummated](https://www.international-communist-party.org/English/REPORTS/WARS/Farce_1953.htm) - ICP  
 1953: [Remembering the Warsaw Commune](https://www.international-communist-party.org/English/REPORTS/WARS/Warsaw_commune_1953.htm) - ICP  
-### ICP Articles on US Racial Issues, 1954-1992:
-1954: [The Leading Civilization in “Segregation”](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#1) - ICP  
-1964: [Myths About American Democracy Crumble](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#2) - ICP  
-1965: [Blacks’ Wrath Had the Rotten Pillars of the Bourgeois and Democratic "Civilization" Crumbling](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#3) - ICP  
-1967: [Glory to the Rioting Black Proletarians](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4) - ICP  
-1967: [Need for Revolutionary Theory and the Marxist Party in America](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#4.1) - ICP  
-1968: [The True Way of the Black Proletariat](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#5) - ICP  
-1970: [Short Notes on the Conditions of the Resurgence of the Proletarian Movement in the US](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#6) - ICP  
-1971: [The Black Panther Movement](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#7) - ICP  
-1980: [Black Proletarians Rioting in Florida](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#8) - ICP  
-1992: [Los Angeles, Revolt of Despair in the Tragic Absence of the Organized Working Class](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm#9) - ICP
+## [ICP Articles on US Racial Issues, 1954-1992:](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm)
 
 *1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky*  
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
