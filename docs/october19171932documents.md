@@ -81,27 +81,7 @@
 1931: [War or Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm#WarOrRevolution) - Prometeo  
 ### The Ryutin Affair & the Bloc Against Stalin, 1932:
 *1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin*  
-## Preparation for WW2, 1933-1938:
-### Second Five Year Plan, the Nazis Take Power in Germany, 1936 Constitution in the USSR, the Great Purge, & the Spanish Civil War, 1933-1938:
-1933: [The Problem of the War](https://www.international-communist-party.org/English/REPORTS/WARS/ProblemOfWar_1933.htm) - Prometeo  
-1933: [Revolutionary Communist Leaders](https://www.international-communist-party.org/CommLeft/CL46.htm#LeLiLu_1) - Prometeo  
-1933: [The First International Repercussions of the Events in Germany](https://www.international-communist-party.org/English/REPORTS/WARS/EventsInGermany_1933.htm) - Prometeo  
-1933: [Manifesto](https://www.international-communist-party.org/English/REPORTS/WARS/EventsInGermany_1933.htm#Manifesto1933) - Prometeo  
-1933: [May Day 1933: Rebuilding the Heritage of Proletarian Struggle](https://www.international-communist-party.org/English/REPORTS/WARS/MayDay1933.htm) - Prometeo  
-1934: [Towards the New Sacred Union](https://www.international-communist-party.org/English/REPORTS/WARS/ProblemOfWar_1933.htm#Towards) - Prometeo  
-1935: [The “Fascist” (?) Adventure in Abyssinia](https://www.international-communist-party.org/English/REPORTS/WARS/FascistAbyssinia_1935.htm) - Prometeo  
-### [The Spanish Civil War, 1936-1938](https://cyberiapilled.github.io/texts/collections/spanishcivilwar)
-## [WW2, 1939-1945](https://cyberiapilled.github.io/texts/collections/ww2)
-## The First Thirteen Years After WW2, 1946-1953:
-1947: [The Proletariat & the Second World War](https://www.international-communist-party.org/English/REPORTS/WARS/Prolet_2WW_1947.htm) - ICP  
-1948: [The Party Programme](https://www.international-communist-party.org/BasicTexts/English/48PartyP.htm) - ICP  
-1949: [The Liquidation of What Was Called the Greek Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/Liquidation_Greek_1949.htm) - ICP  
-1950: [Appeal for the Movement’s International Reorganization](https://www.international-communist-party.org/BasicTexts/English/50Appeal.htm) - ICP  
-1952: [The New Deal](https://www.international-communist-party.org/English/REPORTS/CrisisTh/1952_NewDeal.htm) - ICP  
-1952: [The H-Bomb Versus the Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HBomb_1952.htm) - ICP  
-1953: [The Farce of Stalinist Insurrectionism Has Been Consummated](https://www.international-communist-party.org/English/REPORTS/WARS/Farce_1953.htm) - ICP  
-1953: [Remembering the Warsaw Commune](https://www.international-communist-party.org/English/REPORTS/WARS/Warsaw_commune_1953.htm) - ICP  
-## [ICP Articles on US Racial Issues, 1954-1992](https://www.international-communist-party.org/English/REPORTS/US_Racial_Issues.htm)
+## [1933-1992](cyberiapilled.github.io/texts/collections/19331992)
 
 *1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky*  
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
