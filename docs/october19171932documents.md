@@ -29,13 +29,15 @@
 *1920: [Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)*  
 *1920: [The Manifesto/Platform of the Party Left](https://www.international-communist-party.org/BasicTexts/English/20MaLeft.htm) - PSI*  
 1920: [On Proletarian Culture](https://www.marxists.org/archive/lenin/works/1920/oct/08.htm) - Lenin  
-### The NEP, Economic Restoration, the End of the Civil War, the Formation of the USSR, the Death of Lenin, Socialism in One Country, the Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1921-1925:
+### The NEP, & Economic Restoration, 1921-1925:
+#### The NEP, the End of the Civil War, & the Formation of the USSR, 1921-1922:
 *1921: [Tenth Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm) - Lenin*  
 *1921: [The Tax in Kind](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm) - Lenin*  
 *1922: [The Economic Structure of Soviet Russia](https://www.marxists.org/archive/bukharin/works/1922/03/econstruct.html) - Bukharin*  
 *1922: [Eleventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1922/mar/27.htm) - Lenin*  
 1922: [The 1st of May in Italy](https://www.marxists.org/archive/bordiga/works/1922/05/1stmay.html) - PCd’I  
 *1922: [Last Testament](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm) - Lenin*  
+#### The Final Illness & Death of Lenin, the Hamburg Uprising in Germany, & the Emergence of the Left & Right Oppositions, 1923-1924:
 1923: [On Education](https://www.marxists.org/archive/lenin/works/1923/jan/02.htm) - Lenin  
 *1923: [On Cooperation](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm) - Lenin*  
 1923: [Our Revolution](https://www.marxists.org/archive/lenin/works/1923/jan/16.htm) - Lenin  
@@ -49,6 +51,7 @@
 1924: [Report on Fascism](https://www.international-communist-party.org/BasicTexts/English/24Fascis.htm) - PCd’I  
 *1924: [The Lessons of October](https://www.marxists.org/archive/trotsky/1924/lessons/index.htm) - Trotsky*  
 *1924: [The Theory of Permanent Revolution](https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm) - Bukharin*  
+#### Socialism in One Country & the Start of the Struggle Against Trotsky in the Comintern, 1925:
 *1925: [The Road to Socialism & the Worker-Peasant Alliance](https://cdn.discordapp.com/attachments/984866180714094592/1047723265038229534/Bukharin_-_The_Road_to_Socialism_and_the_Worker-Peasant_Alliance_1925.pdf) - Bukharin*  
 1925: [The Trotsky Question](https://www.marxists.org/archive/bordiga/works/1925/trotsky.htm) - PCd’I  
 ## The Counter-Revolution in Russia & the International, 1926-1929:
