@@ -81,7 +81,7 @@
 1931: [War or Revolution](https://www.international-communist-party.org/English/REPORTS/WARS/HooverPlan_1931.htm#WarOrRevolution) - Prometeo  
 ### The Ryutin Affair & the Bloc Against Stalin, 1932:
 *1932: [Stalin & the Crisis of Proletarian Dictatorship](https://drive.google.com/file/d/19zMlGNdwFJ0JK-RtkVudlmaIscwwi479/view) - Ryutin*  
-## [1933-1992](cyberiapilled.github.io/texts/collections/19331992)
+## [1933-1992](/texts/collections/19331992)
 
 *1917: [On the Paris Commune](https://www.marxists.org/archive/trotsky/1917/03/commune.htm) - Trotsky*  
 1919: [The Programme of the Communist Fraction](https://libriincogniti.wordpress.com/2020/08/03/il-soviet-the-programme-of-the-communist-fraction/) - PSI  
