@@ -104,6 +104,5 @@ Communist International](https://www.marxists.org/history/international/cominter
 1923: [Big Stick in Poplar](https://www.international-communist-party.org/CommLeft/CL03.htm#The_Big_Stick_In_Poplar) - Pankhurst  
 1923: [“Practical” Socialists](https://www.international-communist-party.org/CommLeft/CL04.htm#Practical_Socialists) - Morris  
 *1928: [The Third International After Lenin](https://www.marxists.org/archive/trotsky/1928/3rd/index.htm) - Trotsky*  
-1934: [Anti-Fascism: Formula for Confusion](https://www.quinterna.org/lingue/english/historical_en/antifascism_confusion.htm) - Bilan  
 1919: [Ten Days That Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/) - Reed  
 1921: [Notes of a Red Guard](https://files.libcom.org/files/notes_of_a_red_guard.pdf) - Dune  
