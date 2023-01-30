@@ -6,3 +6,5 @@
 1937: [While the Popular Front Goons Massacre Proletarians](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm) - Prometeo  
 1937: [Machine-Gun Strafing, Shelling, Repression](https://www.international-communist-party.org/English/REPORTS/WARS/Barcelona_1936.htm#Machineguns) - Prometeo  
 1937: [Glimmers of Light](https://www.international-communist-party.org/English/REPORTS/WARS/GlimmersLight_1937.htm) - Prometeo  
+1964: [What the Popular Front Really Was](https://www.international-communist-party.org/English/REPORTS/WARS/Spain_PF.htm) - ICP  
+1965: [Lessons From the Counter-Revolution: Spain 1936](https://www.international-communist-party.org/English/REPORTS/WARS/Spain_36.htm) - ICP  
