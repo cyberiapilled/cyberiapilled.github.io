@@ -72,6 +72,7 @@
 *1928: [Notes of an Economist](https://cdn.discordapp.com/attachments/984866180714094592/1047728831777230858/notes_of_an_economist_bukharin.pdf) - Bukharin*  
 1928: [The Crisis of the International](https://www.international-communist-party.org/English/Texts/28CrisisCI.htm) - Prometeo  
 1928: [Capitalism’s Mortal Crisis](https://www.international-communist-party.org/CommLeft/CL10_11.htm#MORTALCRISIS) - Prometeo  
+*1928: [The Third International After Lenin](https://www.marxists.org/archive/trotsky/1928/3rd/index.htm) - Trotsky*  
 1929: [McDonald in Power](https://www.international-communist-party.org/CommLeft/CL10_11.htm#McDONALD) - Prometeo  
 1929: [How Stalin-Bukharin Destroyed the Chinese Revolution](https://revolutionsnewsstand.com/2022/12/06/how-stalin-bucharin-destroyed-the-chinese-revolution-an-appeal-to-all-the-comrades-of-the-chinese-communist-party-by-chen-duxiu-1929/) - Duxiu  
 ## Early Proletarian Resistance Against the Stalinist State, 1930-1932:
@@ -94,7 +95,7 @@
 1920: [Strikes & Massacres in the Current Hour](https://libriincogniti.wordpress.com/2020/08/02/il-soviet-strikes-and-massacres-in-the-current-hour/) - PSI  
 1920: [The Strike in Turin](https://libriincogniti.wordpress.com/2020/08/02/il-soviet-the-strike-in-turin/) - PSI  
 1920: [The Situation in Germany & the Communist Movement](https://libriincogniti.wordpress.com/2020/08/20/il-soviet-the-situation-in-germany-and-the-communist-movement/) - PSI  
-1921: [Lessons of the Paris Commune](https://www.marxists.org/archive/trotsky/1921/02/commune.htm) - Trotsky  
+*1921: [Lessons of the Paris Commune](https://www.marxists.org/archive/trotsky/1921/02/commune.htm) - Trotsky*  
 *1921: [The Party Programme](https://www.international-communist-party.org/BasicTexts/English/21PartyP.htm) - PCd’I*  
 *1921: [Third Congress of the
 Communist International](https://www.marxists.org/history/international/comintern/3rd-congress/index.htm)*  
@@ -103,6 +104,5 @@ Communist International](https://www.marxists.org/history/international/cominter
 1922: [The Tactics of the Communist International](https://www.international-communist-party.org/CommLeft/CL44.htm#tacticscominternational) - PCd’I  
 1923: [Big Stick in Poplar](https://www.international-communist-party.org/CommLeft/CL03.htm#The_Big_Stick_In_Poplar) - Pankhurst  
 1923: [“Practical” Socialists](https://www.international-communist-party.org/CommLeft/CL04.htm#Practical_Socialists) - Morris  
-*1928: [The Third International After Lenin](https://www.marxists.org/archive/trotsky/1928/3rd/index.htm) - Trotsky*  
 1919: [Ten Days That Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/) - Reed  
 1921: [Notes of a Red Guard](https://files.libcom.org/files/notes_of_a_red_guard.pdf) - Dune  
