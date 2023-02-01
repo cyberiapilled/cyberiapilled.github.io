@@ -7,6 +7,7 @@
 ### The Russian Civil War & War Communism, 1917-1920:
 #### October Insurrection & the Beginning of the World Revolution, 1917:
 1917: [April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) - Lenin  
+1917: [The Tasks of the Proletariat in Our Revolution](https://www.marxists.org/archive/lenin/works/1917/tasks/) - Lenin  
 #### The Beginning of the Russian Civil War & War Communism, 1918:
 1918: [Extraordinary Seventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1918/7thcong/index.htm) - Lenin  
 *1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)*  
