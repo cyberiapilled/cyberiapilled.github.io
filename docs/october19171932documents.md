@@ -10,6 +10,7 @@
 1917: [The Tasks of the Proletariat in Our Revolution](https://www.marxists.org/archive/lenin/works/1917/tasks/) - Lenin  
 #### The Beginning of the Russian Civil War & War Communism, 1918:
 1918: [Extraordinary Seventh Congress of the Bolsheviks](https://www.marxists.org/archive/lenin/works/1918/7thcong/index.htm) - Lenin  
+1918: [The Soviets At Work](https://www.marxists.org/archive/lenin/works/1918/mar/soviets.htm) - Lenin  
 *1918: [Constitution of the RSFSR](https://www.marxists.org/history/ussr/government/constitution/1918/)*  
 1918: [What Does the Spartacus League Want?](https://www.marxists.org/archive/luxemburg/1918/12/14.htm) - Luxemburg  
 1918: [On the Spartacus Programme](https://www.marxists.org/archive/luxemburg/1918/12/30.htm) - Luxemburg  
