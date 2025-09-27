@@ -103,7 +103,7 @@
 98. [Trampled & Tattered Freedom]
 99. [“Politics First”!]
 100. [Amnesia Olympics]
-101. [Dialogue With Stalin](https://libriincogniti.wordpress.com/2017/12/13/amadeo-bordiga-dialogue-with-stalin/), [Appendix: Eight Supplementary Theses on Russia](https://sinistra.net/lib/upt/comlef/art/eightsuppe.html)
+101. [Dialogue With Stalin](https://www.international-communist-party.org/English/Texts/Russia/DialogueStalin.htm)
 102. [Public Utility, Private Cockaigne]
 103. [The Human Species & the Earth’s Crust](http://www.quinterna.org/lingue/english/historical_en/human_species_and_earthcrust.htm)
 ## 1953
